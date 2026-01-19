@@ -1,0 +1,157 @@
+/* FedBrrrr Custom Styles */
+
+/* Status colors */
+.status-green {
+    --status-color: oklch(var(--su));
+}
+
+.status-yellow {
+    --status-color: oklch(var(--wa));
+}
+
+.status-red {
+    --status-color: oklch(var(--er));
+}
+
+/* Indicator cards */
+.indicator-card {
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.indicator-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+}
+
+.indicator-card .status-indicator {
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    animation: pulse 2s infinite;
+}
+
+.indicator-card .status-indicator.green {
+    background-color: oklch(var(--su));
+}
+
+.indicator-card .status-indicator.yellow {
+    background-color: oklch(var(--wa));
+}
+
+.indicator-card .status-indicator.red {
+    background-color: oklch(var(--er));
+}
+
+@keyframes pulse {
+    0%, 100% {
+        opacity: 1;
+    }
+    50% {
+        opacity: 0.6;
+    }
+}
+
+/* Sparkline container */
+.sparkline-container {
+    height: 50px;
+    width: 100%;
+}
+
+/* Trend indicators */
+.trend-improving {
+    color: oklch(var(--su));
+}
+
+.trend-deteriorating {
+    color: oklch(var(--er));
+}
+
+.trend-stable {
+    color: oklch(var(--bc) / 0.5);
+}
+
+/* Modal chart */
+#detail-chart {
+    width: 100% !important;
+    height: 100% !important;
+}
+
+/* Loading state */
+.loading-shimmer {
+    background: linear-gradient(
+        90deg,
+        oklch(var(--b3)) 25%,
+        oklch(var(--b2)) 50%,
+        oklch(var(--b3)) 75%
+    );
+    background-size: 200% 100%;
+    animation: shimmer 1.5s infinite;
+}
+
+@keyframes shimmer {
+    0% {
+        background-position: 200% 0;
+    }
+    100% {
+        background-position: -200% 0;
+    }
+}
+
+/* Card value styling */
+.card-value {
+    font-size: 1.75rem;
+    font-weight: 700;
+    line-height: 1.2;
+}
+
+.card-unit {
+    font-size: 0.875rem;
+    font-weight: 400;
+    opacity: 0.7;
+}
+
+/* Responsive adjustments */
+@media (max-width: 640px) {
+    .card-value {
+        font-size: 1.5rem;
+    }
+
+    .stats {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .stat {
+        border-left: none;
+        border-bottom: 1px solid oklch(var(--b3));
+    }
+
+    .stat:last-child {
+        border-bottom: none;
+    }
+}
+
+/* Status badge in modal */
+.status-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.25rem 0.75rem;
+    border-radius: 9999px;
+    font-weight: 600;
+}
+
+.status-badge.green {
+    background-color: oklch(var(--su) / 0.2);
+    color: oklch(var(--su));
+}
+
+.status-badge.yellow {
+    background-color: oklch(var(--wa) / 0.2);
+    color: oklch(var(--wa));
+}
+
+.status-badge.red {
+    background-color: oklch(var(--er) / 0.2);
+    color: oklch(var(--er));
+}

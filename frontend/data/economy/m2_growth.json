@@ -1,0 +1,5561 @@
+{
+  "id": "m2_growth",
+  "name": "M2 Money Supply Growth",
+  "category": "economy",
+  "description": "Year-over-year change in M2 money supply. High growth often precedes inflation; negative growth is historically rare and can signal deflationary pressure.",
+  "unit": "% YoY",
+  "thresholds": {
+    "green_max": 8,
+    "green_min": 3,
+    "yellow_max": 12,
+    "yellow_min": 0,
+    "red_max": null,
+    "red_min": 12,
+    "invert": false
+  },
+  "current_value": 4.27,
+  "current_date": "2025-11-01",
+  "status": "green",
+  "trend": "deteriorating",
+  "change_value": -0.37,
+  "change_percent": -8.06,
+  "data": [
+    {
+      "date": "1960-01-01",
+      "value": 4.05,
+      "raw_values": {
+        "M2SL": 298.2
+      }
+    },
+    {
+      "date": "1960-02-01",
+      "value": 3.72,
+      "raw_values": {
+        "M2SL": 298.4
+      }
+    },
+    {
+      "date": "1960-03-01",
+      "value": 3.49,
+      "raw_values": {
+        "M2SL": 299.3
+      }
+    },
+    {
+      "date": "1960-04-01",
+      "value": 3.45,
+      "raw_values": {
+        "M2SL": 300.1
+      }
+    },
+    {
+      "date": "1960-05-01",
+      "value": 2.98,
+      "raw_values": {
+        "M2SL": 300.9
+      }
+    },
+    {
+      "date": "1960-06-01",
+      "value": 2.79,
+      "raw_values": {
+        "M2SL": 302.3
+      }
+    },
+    {
+      "date": "1960-07-01",
+      "value": 3.01,
+      "raw_values": {
+        "M2SL": 304.1
+      }
+    },
+    {
+      "date": "1960-08-01",
+      "value": 3.54,
+      "raw_values": {
+        "M2SL": 306.9
+      }
+    },
+    {
+      "date": "1960-09-01",
+      "value": 3.94,
+      "raw_values": {
+        "M2SL": 308.4
+      }
+    },
+    {
+      "date": "1960-10-01",
+      "value": 4.38,
+      "raw_values": {
+        "M2SL": 309.5
+      }
+    },
+    {
+      "date": "1960-11-01",
+      "value": 4.64,
+      "raw_values": {
+        "M2SL": 310.9
+      }
+    },
+    {
+      "date": "1960-12-01",
+      "value": 4.9,
+      "raw_values": {
+        "M2SL": 312.4
+      }
+    },
+    {
+      "date": "1961-01-01",
+      "value": 5.33,
+      "raw_values": {
+        "M2SL": 314.1
+      }
+    },
+    {
+      "date": "1961-02-01",
+      "value": 6.07,
+      "raw_values": {
+        "M2SL": 316.5
+      }
+    },
+    {
+      "date": "1961-03-01",
+      "value": 6.35,
+      "raw_values": {
+        "M2SL": 318.3
+      }
+    },
+    {
+      "date": "1961-04-01",
+      "value": 6.6,
+      "raw_values": {
+        "M2SL": 319.9
+      }
+    },
+    {
+      "date": "1961-05-01",
+      "value": 7.08,
+      "raw_values": {
+        "M2SL": 322.2
+      }
+    },
+    {
+      "date": "1961-06-01",
+      "value": 7.28,
+      "raw_values": {
+        "M2SL": 324.3
+      }
+    },
+    {
+      "date": "1961-07-01",
+      "value": 7.07,
+      "raw_values": {
+        "M2SL": 325.6
+      }
+    },
+    {
+      "date": "1961-08-01",
+      "value": 6.74,
+      "raw_values": {
+        "M2SL": 327.6
+      }
+    },
+    {
+      "date": "1961-09-01",
+      "value": 6.84,
+      "raw_values": {
+        "M2SL": 329.5
+      }
+    },
+    {
+      "date": "1961-10-01",
+      "value": 6.98,
+      "raw_values": {
+        "M2SL": 331.1
+      }
+    },
+    {
+      "date": "1961-11-01",
+      "value": 7.24,
+      "raw_values": {
+        "M2SL": 333.4
+      }
+    },
+    {
+      "date": "1961-12-01",
+      "value": 7.39,
+      "raw_values": {
+        "M2SL": 335.5
+      }
+    },
+    {
+      "date": "1962-01-01",
+      "value": 7.45,
+      "raw_values": {
+        "M2SL": 337.5
+      }
+    },
+    {
+      "date": "1962-02-01",
+      "value": 7.46,
+      "raw_values": {
+        "M2SL": 340.1
+      }
+    },
+    {
+      "date": "1962-03-01",
+      "value": 7.79,
+      "raw_values": {
+        "M2SL": 343.1
+      }
+    },
+    {
+      "date": "1962-04-01",
+      "value": 8.0,
+      "raw_values": {
+        "M2SL": 345.5
+      }
+    },
+    {
+      "date": "1962-05-01",
+      "value": 7.85,
+      "raw_values": {
+        "M2SL": 347.5
+      }
+    },
+    {
+      "date": "1962-06-01",
+      "value": 7.71,
+      "raw_values": {
+        "M2SL": 349.3
+      }
+    },
+    {
+      "date": "1962-07-01",
+      "value": 7.74,
+      "raw_values": {
+        "M2SL": 350.8
+      }
+    },
+    {
+      "date": "1962-08-01",
+      "value": 7.69,
+      "raw_values": {
+        "M2SL": 352.8
+      }
+    },
+    {
+      "date": "1962-09-01",
+      "value": 7.71,
+      "raw_values": {
+        "M2SL": 354.9
+      }
+    },
+    {
+      "date": "1962-10-01",
+      "value": 7.88,
+      "raw_values": {
+        "M2SL": 357.2
+      }
+    },
+    {
+      "date": "1962-11-01",
+      "value": 7.92,
+      "raw_values": {
+        "M2SL": 359.8
+      }
+    },
+    {
+      "date": "1962-12-01",
+      "value": 8.11,
+      "raw_values": {
+        "M2SL": 362.7
+      }
+    },
+    {
+      "date": "1963-01-01",
+      "value": 8.21,
+      "raw_values": {
+        "M2SL": 365.2
+      }
+    },
+    {
+      "date": "1963-02-01",
+      "value": 8.17,
+      "raw_values": {
+        "M2SL": 367.9
+      }
+    },
+    {
+      "date": "1963-03-01",
+      "value": 8.04,
+      "raw_values": {
+        "M2SL": 370.7
+      }
+    },
+    {
+      "date": "1963-04-01",
+      "value": 8.05,
+      "raw_values": {
+        "M2SL": 373.3
+      }
+    },
+    {
+      "date": "1963-05-01",
+      "value": 8.23,
+      "raw_values": {
+        "M2SL": 376.1
+      }
+    },
+    {
+      "date": "1963-06-01",
+      "value": 8.33,
+      "raw_values": {
+        "M2SL": 378.4
+      }
+    },
+    {
+      "date": "1963-07-01",
+      "value": 8.64,
+      "raw_values": {
+        "M2SL": 381.1
+      }
+    },
+    {
+      "date": "1963-08-01",
+      "value": 8.73,
+      "raw_values": {
+        "M2SL": 383.6
+      }
+    },
+    {
+      "date": "1963-09-01",
+      "value": 8.76,
+      "raw_values": {
+        "M2SL": 386.0
+      }
+    },
+    {
+      "date": "1963-10-01",
+      "value": 8.71,
+      "raw_values": {
+        "M2SL": 388.3
+      }
+    },
+    {
+      "date": "1963-11-01",
+      "value": 8.81,
+      "raw_values": {
+        "M2SL": 391.5
+      }
+    },
+    {
+      "date": "1963-12-01",
+      "value": 8.41,
+      "raw_values": {
+        "M2SL": 393.2
+      }
+    },
+    {
+      "date": "1964-01-01",
+      "value": 8.21,
+      "raw_values": {
+        "M2SL": 395.2
+      }
+    },
+    {
+      "date": "1964-02-01",
+      "value": 8.07,
+      "raw_values": {
+        "M2SL": 397.6
+      }
+    },
+    {
+      "date": "1964-03-01",
+      "value": 7.85,
+      "raw_values": {
+        "M2SL": 399.8
+      }
+    },
+    {
+      "date": "1964-04-01",
+      "value": 7.61,
+      "raw_values": {
+        "M2SL": 401.7
+      }
+    },
+    {
+      "date": "1964-05-01",
+      "value": 7.47,
+      "raw_values": {
+        "M2SL": 404.2
+      }
+    },
+    {
+      "date": "1964-06-01",
+      "value": 7.58,
+      "raw_values": {
+        "M2SL": 407.1
+      }
+    },
+    {
+      "date": "1964-07-01",
+      "value": 7.61,
+      "raw_values": {
+        "M2SL": 410.1
+      }
+    },
+    {
+      "date": "1964-08-01",
+      "value": 7.77,
+      "raw_values": {
+        "M2SL": 413.4
+      }
+    },
+    {
+      "date": "1964-09-01",
+      "value": 8.01,
+      "raw_values": {
+        "M2SL": 416.9
+      }
+    },
+    {
+      "date": "1964-10-01",
+      "value": 7.93,
+      "raw_values": {
+        "M2SL": 419.1
+      }
+    },
+    {
+      "date": "1964-11-01",
+      "value": 7.79,
+      "raw_values": {
+        "M2SL": 422.0
+      }
+    },
+    {
+      "date": "1964-12-01",
+      "value": 8.01,
+      "raw_values": {
+        "M2SL": 424.7
+      }
+    },
+    {
+      "date": "1965-01-01",
+      "value": 8.17,
+      "raw_values": {
+        "M2SL": 427.5
+      }
+    },
+    {
+      "date": "1965-02-01",
+      "value": 8.25,
+      "raw_values": {
+        "M2SL": 430.4
+      }
+    },
+    {
+      "date": "1965-03-01",
+      "value": 8.35,
+      "raw_values": {
+        "M2SL": 433.2
+      }
+    },
+    {
+      "date": "1965-04-01",
+      "value": 8.39,
+      "raw_values": {
+        "M2SL": 435.4
+      }
+    },
+    {
+      "date": "1965-05-01",
+      "value": 8.14,
+      "raw_values": {
+        "M2SL": 437.1
+      }
+    },
+    {
+      "date": "1965-06-01",
+      "value": 8.11,
+      "raw_values": {
+        "M2SL": 440.1
+      }
+    },
+    {
+      "date": "1965-07-01",
+      "value": 8.0,
+      "raw_values": {
+        "M2SL": 442.9
+      }
+    },
+    {
+      "date": "1965-08-01",
+      "value": 7.84,
+      "raw_values": {
+        "M2SL": 445.8
+      }
+    },
+    {
+      "date": "1965-09-01",
+      "value": 7.82,
+      "raw_values": {
+        "M2SL": 449.5
+      }
+    },
+    {
+      "date": "1965-10-01",
+      "value": 7.99,
+      "raw_values": {
+        "M2SL": 452.6
+      }
+    },
+    {
+      "date": "1965-11-01",
+      "value": 7.99,
+      "raw_values": {
+        "M2SL": 455.7
+      }
+    },
+    {
+      "date": "1965-12-01",
+      "value": 8.12,
+      "raw_values": {
+        "M2SL": 459.2
+      }
+    },
+    {
+      "date": "1966-01-01",
+      "value": 8.07,
+      "raw_values": {
+        "M2SL": 462.0
+      }
+    },
+    {
+      "date": "1966-02-01",
+      "value": 7.95,
+      "raw_values": {
+        "M2SL": 464.6
+      }
+    },
+    {
+      "date": "1966-03-01",
+      "value": 7.85,
+      "raw_values": {
+        "M2SL": 467.2
+      }
+    },
+    {
+      "date": "1966-04-01",
+      "value": 7.79,
+      "raw_values": {
+        "M2SL": 469.3
+      }
+    },
+    {
+      "date": "1966-05-01",
+      "value": 7.55,
+      "raw_values": {
+        "M2SL": 470.1
+      }
+    },
+    {
+      "date": "1966-06-01",
+      "value": 7.07,
+      "raw_values": {
+        "M2SL": 471.2
+      }
+    },
+    {
+      "date": "1966-07-01",
+      "value": 6.32,
+      "raw_values": {
+        "M2SL": 470.9
+      }
+    },
+    {
+      "date": "1966-08-01",
+      "value": 6.01,
+      "raw_values": {
+        "M2SL": 472.6
+      }
+    },
+    {
+      "date": "1966-09-01",
+      "value": 5.76,
+      "raw_values": {
+        "M2SL": 475.4
+      }
+    },
+    {
+      "date": "1966-10-01",
+      "value": 5.1,
+      "raw_values": {
+        "M2SL": 475.7
+      }
+    },
+    {
+      "date": "1966-11-01",
+      "value": 4.74,
+      "raw_values": {
+        "M2SL": 477.3
+      }
+    },
+    {
+      "date": "1966-12-01",
+      "value": 4.57,
+      "raw_values": {
+        "M2SL": 480.2
+      }
+    },
+    {
+      "date": "1967-01-01",
+      "value": 4.24,
+      "raw_values": {
+        "M2SL": 481.6
+      }
+    },
+    {
+      "date": "1967-02-01",
+      "value": 4.41,
+      "raw_values": {
+        "M2SL": 485.1
+      }
+    },
+    {
+      "date": "1967-03-01",
+      "value": 4.82,
+      "raw_values": {
+        "M2SL": 489.7
+      }
+    },
+    {
+      "date": "1967-04-01",
+      "value": 4.86,
+      "raw_values": {
+        "M2SL": 492.1
+      }
+    },
+    {
+      "date": "1967-05-01",
+      "value": 5.76,
+      "raw_values": {
+        "M2SL": 497.2
+      }
+    },
+    {
+      "date": "1967-06-01",
+      "value": 6.54,
+      "raw_values": {
+        "M2SL": 502.0
+      }
+    },
+    {
+      "date": "1967-07-01",
+      "value": 7.52,
+      "raw_values": {
+        "M2SL": 506.3
+      }
+    },
+    {
+      "date": "1967-08-01",
+      "value": 8.08,
+      "raw_values": {
+        "M2SL": 510.8
+      }
+    },
+    {
+      "date": "1967-09-01",
+      "value": 8.27,
+      "raw_values": {
+        "M2SL": 514.7
+      }
+    },
+    {
+      "date": "1967-10-01",
+      "value": 8.93,
+      "raw_values": {
+        "M2SL": 518.2
+      }
+    },
+    {
+      "date": "1967-11-01",
+      "value": 9.2,
+      "raw_values": {
+        "M2SL": 521.2
+      }
+    },
+    {
+      "date": "1967-12-01",
+      "value": 9.29,
+      "raw_values": {
+        "M2SL": 524.8
+      }
+    },
+    {
+      "date": "1968-01-01",
+      "value": 9.51,
+      "raw_values": {
+        "M2SL": 527.4
+      }
+    },
+    {
+      "date": "1968-02-01",
+      "value": 9.34,
+      "raw_values": {
+        "M2SL": 530.4
+      }
+    },
+    {
+      "date": "1968-03-01",
+      "value": 8.88,
+      "raw_values": {
+        "M2SL": 533.2
+      }
+    },
+    {
+      "date": "1968-04-01",
+      "value": 8.86,
+      "raw_values": {
+        "M2SL": 535.7
+      }
+    },
+    {
+      "date": "1968-05-01",
+      "value": 8.39,
+      "raw_values": {
+        "M2SL": 538.9
+      }
+    },
+    {
+      "date": "1968-06-01",
+      "value": 8.09,
+      "raw_values": {
+        "M2SL": 542.6
+      }
+    },
+    {
+      "date": "1968-07-01",
+      "value": 7.76,
+      "raw_values": {
+        "M2SL": 545.6
+      }
+    },
+    {
+      "date": "1968-08-01",
+      "value": 7.56,
+      "raw_values": {
+        "M2SL": 549.4
+      }
+    },
+    {
+      "date": "1968-09-01",
+      "value": 7.56,
+      "raw_values": {
+        "M2SL": 553.6
+      }
+    },
+    {
+      "date": "1968-10-01",
+      "value": 7.6,
+      "raw_values": {
+        "M2SL": 557.6
+      }
+    },
+    {
+      "date": "1968-11-01",
+      "value": 7.9,
+      "raw_values": {
+        "M2SL": 562.4
+      }
+    },
+    {
+      "date": "1968-12-01",
+      "value": 8.0,
+      "raw_values": {
+        "M2SL": 566.8
+      }
+    },
+    {
+      "date": "1969-01-01",
+      "value": 7.94,
+      "raw_values": {
+        "M2SL": 569.3
+      }
+    },
+    {
+      "date": "1969-02-01",
+      "value": 7.82,
+      "raw_values": {
+        "M2SL": 571.9
+      }
+    },
+    {
+      "date": "1969-03-01",
+      "value": 7.73,
+      "raw_values": {
+        "M2SL": 574.4
+      }
+    },
+    {
+      "date": "1969-04-01",
+      "value": 7.47,
+      "raw_values": {
+        "M2SL": 575.7
+      }
+    },
+    {
+      "date": "1969-05-01",
+      "value": 6.98,
+      "raw_values": {
+        "M2SL": 576.5
+      }
+    },
+    {
+      "date": "1969-06-01",
+      "value": 6.62,
+      "raw_values": {
+        "M2SL": 578.5
+      }
+    },
+    {
+      "date": "1969-07-01",
+      "value": 6.21,
+      "raw_values": {
+        "M2SL": 579.5
+      }
+    },
+    {
+      "date": "1969-08-01",
+      "value": 5.59,
+      "raw_values": {
+        "M2SL": 580.1
+      }
+    },
+    {
+      "date": "1969-09-01",
+      "value": 5.15,
+      "raw_values": {
+        "M2SL": 582.1
+      }
+    },
+    {
+      "date": "1969-10-01",
+      "value": 4.63,
+      "raw_values": {
+        "M2SL": 583.4
+      }
+    },
+    {
+      "date": "1969-11-01",
+      "value": 4.09,
+      "raw_values": {
+        "M2SL": 585.4
+      }
+    },
+    {
+      "date": "1969-12-01",
+      "value": 3.72,
+      "raw_values": {
+        "M2SL": 587.9
+      }
+    },
+    {
+      "date": "1970-01-01",
+      "value": 3.57,
+      "raw_values": {
+        "M2SL": 589.6
+      }
+    },
+    {
+      "date": "1970-02-01",
+      "value": 2.52,
+      "raw_values": {
+        "M2SL": 586.3
+      }
+    },
+    {
+      "date": "1970-03-01",
+      "value": 2.25,
+      "raw_values": {
+        "M2SL": 587.3
+      }
+    },
+    {
+      "date": "1970-04-01",
+      "value": 2.21,
+      "raw_values": {
+        "M2SL": 588.4
+      }
+    },
+    {
+      "date": "1970-05-01",
+      "value": 2.6,
+      "raw_values": {
+        "M2SL": 591.5
+      }
+    },
+    {
+      "date": "1970-06-01",
+      "value": 2.89,
+      "raw_values": {
+        "M2SL": 595.2
+      }
+    },
+    {
+      "date": "1970-07-01",
+      "value": 3.38,
+      "raw_values": {
+        "M2SL": 599.1
+      }
+    },
+    {
+      "date": "1970-08-01",
+      "value": 4.28,
+      "raw_values": {
+        "M2SL": 604.9
+      }
+    },
+    {
+      "date": "1970-09-01",
+      "value": 5.0,
+      "raw_values": {
+        "M2SL": 611.2
+      }
+    },
+    {
+      "date": "1970-10-01",
+      "value": 5.66,
+      "raw_values": {
+        "M2SL": 616.4
+      }
+    },
+    {
+      "date": "1970-11-01",
+      "value": 6.1,
+      "raw_values": {
+        "M2SL": 621.1
+      }
+    },
+    {
+      "date": "1970-12-01",
+      "value": 6.57,
+      "raw_values": {
+        "M2SL": 626.5
+      }
+    },
+    {
+      "date": "1971-01-01",
+      "value": 7.34,
+      "raw_values": {
+        "M2SL": 632.9
+      }
+    },
+    {
+      "date": "1971-02-01",
+      "value": 9.33,
+      "raw_values": {
+        "M2SL": 641.0
+      }
+    },
+    {
+      "date": "1971-03-01",
+      "value": 10.66,
+      "raw_values": {
+        "M2SL": 649.9
+      }
+    },
+    {
+      "date": "1971-04-01",
+      "value": 11.9,
+      "raw_values": {
+        "M2SL": 658.4
+      }
+    },
+    {
+      "date": "1971-05-01",
+      "value": 12.71,
+      "raw_values": {
+        "M2SL": 666.7
+      }
+    },
+    {
+      "date": "1971-06-01",
+      "value": 13.07,
+      "raw_values": {
+        "M2SL": 673.0
+      }
+    },
+    {
+      "date": "1971-07-01",
+      "value": 13.44,
+      "raw_values": {
+        "M2SL": 679.6
+      }
+    },
+    {
+      "date": "1971-08-01",
+      "value": 13.32,
+      "raw_values": {
+        "M2SL": 685.5
+      }
+    },
+    {
+      "date": "1971-09-01",
+      "value": 13.3,
+      "raw_values": {
+        "M2SL": 692.5
+      }
+    },
+    {
+      "date": "1971-10-01",
+      "value": 13.3,
+      "raw_values": {
+        "M2SL": 698.4
+      }
+    },
+    {
+      "date": "1971-11-01",
+      "value": 13.44,
+      "raw_values": {
+        "M2SL": 704.6
+      }
+    },
+    {
+      "date": "1971-12-01",
+      "value": 13.38,
+      "raw_values": {
+        "M2SL": 710.3
+      }
+    },
+    {
+      "date": "1972-01-01",
+      "value": 13.4,
+      "raw_values": {
+        "M2SL": 717.7
+      }
+    },
+    {
+      "date": "1972-02-01",
+      "value": 13.21,
+      "raw_values": {
+        "M2SL": 725.7
+      }
+    },
+    {
+      "date": "1972-03-01",
+      "value": 12.86,
+      "raw_values": {
+        "M2SL": 733.5
+      }
+    },
+    {
+      "date": "1972-04-01",
+      "value": 12.15,
+      "raw_values": {
+        "M2SL": 738.4
+      }
+    },
+    {
+      "date": "1972-05-01",
+      "value": 11.49,
+      "raw_values": {
+        "M2SL": 743.3
+      }
+    },
+    {
+      "date": "1972-06-01",
+      "value": 11.4,
+      "raw_values": {
+        "M2SL": 749.7
+      }
+    },
+    {
+      "date": "1972-07-01",
+      "value": 11.76,
+      "raw_values": {
+        "M2SL": 759.5
+      }
+    },
+    {
+      "date": "1972-08-01",
+      "value": 12.14,
+      "raw_values": {
+        "M2SL": 768.7
+      }
+    },
+    {
+      "date": "1972-09-01",
+      "value": 12.39,
+      "raw_values": {
+        "M2SL": 778.3
+      }
+    },
+    {
+      "date": "1972-10-01",
+      "value": 12.67,
+      "raw_values": {
+        "M2SL": 786.9
+      }
+    },
+    {
+      "date": "1972-11-01",
+      "value": 12.67,
+      "raw_values": {
+        "M2SL": 793.9
+      }
+    },
+    {
+      "date": "1972-12-01",
+      "value": 12.95,
+      "raw_values": {
+        "M2SL": 802.3
+      }
+    },
+    {
+      "date": "1973-01-01",
+      "value": 12.9,
+      "raw_values": {
+        "M2SL": 810.3
+      }
+    },
+    {
+      "date": "1973-02-01",
+      "value": 12.18,
+      "raw_values": {
+        "M2SL": 814.1
+      }
+    },
+    {
+      "date": "1973-03-01",
+      "value": 11.15,
+      "raw_values": {
+        "M2SL": 815.3
+      }
+    },
+    {
+      "date": "1973-04-01",
+      "value": 11.01,
+      "raw_values": {
+        "M2SL": 819.7
+      }
+    },
+    {
+      "date": "1973-05-01",
+      "value": 11.23,
+      "raw_values": {
+        "M2SL": 826.8
+      }
+    },
+    {
+      "date": "1973-06-01",
+      "value": 11.15,
+      "raw_values": {
+        "M2SL": 833.3
+      }
+    },
+    {
+      "date": "1973-07-01",
+      "value": 10.14,
+      "raw_values": {
+        "M2SL": 836.5
+      }
+    },
+    {
+      "date": "1973-08-01",
+      "value": 9.12,
+      "raw_values": {
+        "M2SL": 838.8
+      }
+    },
+    {
+      "date": "1973-09-01",
+      "value": 7.84,
+      "raw_values": {
+        "M2SL": 839.3
+      }
+    },
+    {
+      "date": "1973-10-01",
+      "value": 7.08,
+      "raw_values": {
+        "M2SL": 842.6
+      }
+    },
+    {
+      "date": "1973-11-01",
+      "value": 6.93,
+      "raw_values": {
+        "M2SL": 848.9
+      }
+    },
+    {
+      "date": "1973-12-01",
+      "value": 6.63,
+      "raw_values": {
+        "M2SL": 855.5
+      }
+    },
+    {
+      "date": "1974-01-01",
+      "value": 6.1,
+      "raw_values": {
+        "M2SL": 859.7
+      }
+    },
+    {
+      "date": "1974-02-01",
+      "value": 6.15,
+      "raw_values": {
+        "M2SL": 864.2
+      }
+    },
+    {
+      "date": "1974-03-01",
+      "value": 6.72,
+      "raw_values": {
+        "M2SL": 870.1
+      }
+    },
+    {
+      "date": "1974-04-01",
+      "value": 6.49,
+      "raw_values": {
+        "M2SL": 872.9
+      }
+    },
+    {
+      "date": "1974-05-01",
+      "value": 5.78,
+      "raw_values": {
+        "M2SL": 874.6
+      }
+    },
+    {
+      "date": "1974-06-01",
+      "value": 5.34,
+      "raw_values": {
+        "M2SL": 877.8
+      }
+    },
+    {
+      "date": "1974-07-01",
+      "value": 5.37,
+      "raw_values": {
+        "M2SL": 881.4
+      }
+    },
+    {
+      "date": "1974-08-01",
+      "value": 5.4,
+      "raw_values": {
+        "M2SL": 884.1
+      }
+    },
+    {
+      "date": "1974-09-01",
+      "value": 5.79,
+      "raw_values": {
+        "M2SL": 887.9
+      }
+    },
+    {
+      "date": "1974-10-01",
+      "value": 6.02,
+      "raw_values": {
+        "M2SL": 893.3
+      }
+    },
+    {
+      "date": "1974-11-01",
+      "value": 5.85,
+      "raw_values": {
+        "M2SL": 898.6
+      }
+    },
+    {
+      "date": "1974-12-01",
+      "value": 5.45,
+      "raw_values": {
+        "M2SL": 902.1
+      }
+    },
+    {
+      "date": "1975-01-01",
+      "value": 5.42,
+      "raw_values": {
+        "M2SL": 906.3
+      }
+    },
+    {
+      "date": "1975-02-01",
+      "value": 5.77,
+      "raw_values": {
+        "M2SL": 914.1
+      }
+    },
+    {
+      "date": "1975-03-01",
+      "value": 6.31,
+      "raw_values": {
+        "M2SL": 925.0
+      }
+    },
+    {
+      "date": "1975-04-01",
+      "value": 7.13,
+      "raw_values": {
+        "M2SL": 935.1
+      }
+    },
+    {
+      "date": "1975-05-01",
+      "value": 8.38,
+      "raw_values": {
+        "M2SL": 947.9
+      }
+    },
+    {
+      "date": "1975-06-01",
+      "value": 9.71,
+      "raw_values": {
+        "M2SL": 963.0
+      }
+    },
+    {
+      "date": "1975-07-01",
+      "value": 10.63,
+      "raw_values": {
+        "M2SL": 975.1
+      }
+    },
+    {
+      "date": "1975-08-01",
+      "value": 11.2,
+      "raw_values": {
+        "M2SL": 983.1
+      }
+    },
+    {
+      "date": "1975-09-01",
+      "value": 11.67,
+      "raw_values": {
+        "M2SL": 991.5
+      }
+    },
+    {
+      "date": "1975-10-01",
+      "value": 11.7,
+      "raw_values": {
+        "M2SL": 997.8
+      }
+    },
+    {
+      "date": "1975-11-01",
+      "value": 12.05,
+      "raw_values": {
+        "M2SL": 1006.9
+      }
+    },
+    {
+      "date": "1975-12-01",
+      "value": 12.65,
+      "raw_values": {
+        "M2SL": 1016.2
+      }
+    },
+    {
+      "date": "1976-01-01",
+      "value": 13.27,
+      "raw_values": {
+        "M2SL": 1026.6
+      }
+    },
+    {
+      "date": "1976-02-01",
+      "value": 13.81,
+      "raw_values": {
+        "M2SL": 1040.3
+      }
+    },
+    {
+      "date": "1976-03-01",
+      "value": 13.51,
+      "raw_values": {
+        "M2SL": 1050.0
+      }
+    },
+    {
+      "date": "1976-04-01",
+      "value": 13.44,
+      "raw_values": {
+        "M2SL": 1060.8
+      }
+    },
+    {
+      "date": "1976-05-01",
+      "value": 13.1,
+      "raw_values": {
+        "M2SL": 1072.1
+      }
+    },
+    {
+      "date": "1976-06-01",
+      "value": 11.9,
+      "raw_values": {
+        "M2SL": 1077.6
+      }
+    },
+    {
+      "date": "1976-07-01",
+      "value": 11.4,
+      "raw_values": {
+        "M2SL": 1086.3
+      }
+    },
+    {
+      "date": "1976-08-01",
+      "value": 11.76,
+      "raw_values": {
+        "M2SL": 1098.7
+      }
+    },
+    {
+      "date": "1976-09-01",
+      "value": 12.03,
+      "raw_values": {
+        "M2SL": 1110.8
+      }
+    },
+    {
+      "date": "1976-10-01",
+      "value": 12.75,
+      "raw_values": {
+        "M2SL": 1125.0
+      }
+    },
+    {
+      "date": "1976-11-01",
+      "value": 13.04,
+      "raw_values": {
+        "M2SL": 1138.2
+      }
+    },
+    {
+      "date": "1976-12-01",
+      "value": 13.36,
+      "raw_values": {
+        "M2SL": 1152.0
+      }
+    },
+    {
+      "date": "1977-01-01",
+      "value": 13.5,
+      "raw_values": {
+        "M2SL": 1165.2
+      }
+    },
+    {
+      "date": "1977-02-01",
+      "value": 13.2,
+      "raw_values": {
+        "M2SL": 1177.6
+      }
+    },
+    {
+      "date": "1977-03-01",
+      "value": 13.19,
+      "raw_values": {
+        "M2SL": 1188.5
+      }
+    },
+    {
+      "date": "1977-04-01",
+      "value": 13.08,
+      "raw_values": {
+        "M2SL": 1199.6
+      }
+    },
+    {
+      "date": "1977-05-01",
+      "value": 12.77,
+      "raw_values": {
+        "M2SL": 1209.0
+      }
+    },
+    {
+      "date": "1977-06-01",
+      "value": 13.01,
+      "raw_values": {
+        "M2SL": 1217.8
+      }
+    },
+    {
+      "date": "1977-07-01",
+      "value": 12.92,
+      "raw_values": {
+        "M2SL": 1226.7
+      }
+    },
+    {
+      "date": "1977-08-01",
+      "value": 12.59,
+      "raw_values": {
+        "M2SL": 1237.0
+      }
+    },
+    {
+      "date": "1977-09-01",
+      "value": 12.19,
+      "raw_values": {
+        "M2SL": 1246.2
+      }
+    },
+    {
+      "date": "1977-10-01",
+      "value": 11.47,
+      "raw_values": {
+        "M2SL": 1254.0
+      }
+    },
+    {
+      "date": "1977-11-01",
+      "value": 10.91,
+      "raw_values": {
+        "M2SL": 1262.4
+      }
+    },
+    {
+      "date": "1977-12-01",
+      "value": 10.27,
+      "raw_values": {
+        "M2SL": 1270.3
+      }
+    },
+    {
+      "date": "1978-01-01",
+      "value": 9.83,
+      "raw_values": {
+        "M2SL": 1279.7
+      }
+    },
+    {
+      "date": "1978-02-01",
+      "value": 9.16,
+      "raw_values": {
+        "M2SL": 1285.5
+      }
+    },
+    {
+      "date": "1978-03-01",
+      "value": 8.73,
+      "raw_values": {
+        "M2SL": 1292.2
+      }
+    },
+    {
+      "date": "1978-04-01",
+      "value": 8.4,
+      "raw_values": {
+        "M2SL": 1300.4
+      }
+    },
+    {
+      "date": "1978-05-01",
+      "value": 8.4,
+      "raw_values": {
+        "M2SL": 1310.5
+      }
+    },
+    {
+      "date": "1978-06-01",
+      "value": 8.27,
+      "raw_values": {
+        "M2SL": 1318.5
+      }
+    },
+    {
+      "date": "1978-07-01",
+      "value": 7.94,
+      "raw_values": {
+        "M2SL": 1324.1
+      }
+    },
+    {
+      "date": "1978-08-01",
+      "value": 7.8,
+      "raw_values": {
+        "M2SL": 1333.5
+      }
+    },
+    {
+      "date": "1978-09-01",
+      "value": 7.93,
+      "raw_values": {
+        "M2SL": 1345.0
+      }
+    },
+    {
+      "date": "1978-10-01",
+      "value": 7.84,
+      "raw_values": {
+        "M2SL": 1352.3
+      }
+    },
+    {
+      "date": "1978-11-01",
+      "value": 7.66,
+      "raw_values": {
+        "M2SL": 1359.1
+      }
+    },
+    {
+      "date": "1978-12-01",
+      "value": 7.53,
+      "raw_values": {
+        "M2SL": 1366.0
+      }
+    },
+    {
+      "date": "1979-01-01",
+      "value": 7.18,
+      "raw_values": {
+        "M2SL": 1371.6
+      }
+    },
+    {
+      "date": "1979-02-01",
+      "value": 7.18,
+      "raw_values": {
+        "M2SL": 1377.8
+      }
+    },
+    {
+      "date": "1979-03-01",
+      "value": 7.4,
+      "raw_values": {
+        "M2SL": 1387.8
+      }
+    },
+    {
+      "date": "1979-04-01",
+      "value": 7.82,
+      "raw_values": {
+        "M2SL": 1402.1
+      }
+    },
+    {
+      "date": "1979-05-01",
+      "value": 7.61,
+      "raw_values": {
+        "M2SL": 1410.2
+      }
+    },
+    {
+      "date": "1979-06-01",
+      "value": 7.93,
+      "raw_values": {
+        "M2SL": 1423.0
+      }
+    },
+    {
+      "date": "1979-07-01",
+      "value": 8.36,
+      "raw_values": {
+        "M2SL": 1434.8
+      }
+    },
+    {
+      "date": "1979-08-01",
+      "value": 8.48,
+      "raw_values": {
+        "M2SL": 1446.6
+      }
+    },
+    {
+      "date": "1979-09-01",
+      "value": 8.11,
+      "raw_values": {
+        "M2SL": 1454.1
+      }
+    },
+    {
+      "date": "1979-10-01",
+      "value": 7.99,
+      "raw_values": {
+        "M2SL": 1460.4
+      }
+    },
+    {
+      "date": "1979-11-01",
+      "value": 7.86,
+      "raw_values": {
+        "M2SL": 1465.9
+      }
+    },
+    {
+      "date": "1979-12-01",
+      "value": 7.88,
+      "raw_values": {
+        "M2SL": 1473.7
+      }
+    },
+    {
+      "date": "1980-01-01",
+      "value": 8.1,
+      "raw_values": {
+        "M2SL": 1482.7
+      }
+    },
+    {
+      "date": "1980-02-01",
+      "value": 8.48,
+      "raw_values": {
+        "M2SL": 1494.6
+      }
+    },
+    {
+      "date": "1980-03-01",
+      "value": 8.07,
+      "raw_values": {
+        "M2SL": 1499.8
+      }
+    },
+    {
+      "date": "1980-04-01",
+      "value": 7.14,
+      "raw_values": {
+        "M2SL": 1502.2
+      }
+    },
+    {
+      "date": "1980-05-01",
+      "value": 7.24,
+      "raw_values": {
+        "M2SL": 1512.3
+      }
+    },
+    {
+      "date": "1980-06-01",
+      "value": 7.46,
+      "raw_values": {
+        "M2SL": 1529.2
+      }
+    },
+    {
+      "date": "1980-07-01",
+      "value": 7.72,
+      "raw_values": {
+        "M2SL": 1545.5
+      }
+    },
+    {
+      "date": "1980-08-01",
+      "value": 7.94,
+      "raw_values": {
+        "M2SL": 1561.5
+      }
+    },
+    {
+      "date": "1980-09-01",
+      "value": 8.25,
+      "raw_values": {
+        "M2SL": 1574.0
+      }
+    },
+    {
+      "date": "1980-10-01",
+      "value": 8.52,
+      "raw_values": {
+        "M2SL": 1584.8
+      }
+    },
+    {
+      "date": "1980-11-01",
+      "value": 8.86,
+      "raw_values": {
+        "M2SL": 1595.8
+      }
+    },
+    {
+      "date": "1980-12-01",
+      "value": 8.56,
+      "raw_values": {
+        "M2SL": 1599.8
+      }
+    },
+    {
+      "date": "1981-01-01",
+      "value": 8.38,
+      "raw_values": {
+        "M2SL": 1606.9
+      }
+    },
+    {
+      "date": "1981-02-01",
+      "value": 8.3,
+      "raw_values": {
+        "M2SL": 1618.7
+      }
+    },
+    {
+      "date": "1981-03-01",
+      "value": 9.12,
+      "raw_values": {
+        "M2SL": 1636.6
+      }
+    },
+    {
+      "date": "1981-04-01",
+      "value": 10.45,
+      "raw_values": {
+        "M2SL": 1659.2
+      }
+    },
+    {
+      "date": "1981-05-01",
+      "value": 10.04,
+      "raw_values": {
+        "M2SL": 1664.2
+      }
+    },
+    {
+      "date": "1981-06-01",
+      "value": 9.23,
+      "raw_values": {
+        "M2SL": 1670.3
+      }
+    },
+    {
+      "date": "1981-07-01",
+      "value": 8.83,
+      "raw_values": {
+        "M2SL": 1681.9
+      }
+    },
+    {
+      "date": "1981-08-01",
+      "value": 8.5,
+      "raw_values": {
+        "M2SL": 1694.3
+      }
+    },
+    {
+      "date": "1981-09-01",
+      "value": 8.39,
+      "raw_values": {
+        "M2SL": 1706.0
+      }
+    },
+    {
+      "date": "1981-10-01",
+      "value": 8.64,
+      "raw_values": {
+        "M2SL": 1721.8
+      }
+    },
+    {
+      "date": "1981-11-01",
+      "value": 8.79,
+      "raw_values": {
+        "M2SL": 1736.1
+      }
+    },
+    {
+      "date": "1981-12-01",
+      "value": 9.73,
+      "raw_values": {
+        "M2SL": 1755.5
+      }
+    },
+    {
+      "date": "1982-01-01",
+      "value": 10.17,
+      "raw_values": {
+        "M2SL": 1770.4
+      }
+    },
+    {
+      "date": "1982-02-01",
+      "value": 9.63,
+      "raw_values": {
+        "M2SL": 1774.5
+      }
+    },
+    {
+      "date": "1982-03-01",
+      "value": 9.16,
+      "raw_values": {
+        "M2SL": 1786.5
+      }
+    },
+    {
+      "date": "1982-04-01",
+      "value": 8.72,
+      "raw_values": {
+        "M2SL": 1803.9
+      }
+    },
+    {
+      "date": "1982-05-01",
+      "value": 9.09,
+      "raw_values": {
+        "M2SL": 1815.4
+      }
+    },
+    {
+      "date": "1982-06-01",
+      "value": 9.32,
+      "raw_values": {
+        "M2SL": 1826.0
+      }
+    },
+    {
+      "date": "1982-07-01",
+      "value": 8.89,
+      "raw_values": {
+        "M2SL": 1831.5
+      }
+    },
+    {
+      "date": "1982-08-01",
+      "value": 8.91,
+      "raw_values": {
+        "M2SL": 1845.2
+      }
+    },
+    {
+      "date": "1982-09-01",
+      "value": 8.93,
+      "raw_values": {
+        "M2SL": 1858.4
+      }
+    },
+    {
+      "date": "1982-10-01",
+      "value": 8.59,
+      "raw_values": {
+        "M2SL": 1869.7
+      }
+    },
+    {
+      "date": "1982-11-01",
+      "value": 8.5,
+      "raw_values": {
+        "M2SL": 1883.7
+      }
+    },
+    {
+      "date": "1982-12-01",
+      "value": 8.57,
+      "raw_values": {
+        "M2SL": 1905.9
+      }
+    },
+    {
+      "date": "1983-01-01",
+      "value": 10.68,
+      "raw_values": {
+        "M2SL": 1959.4
+      }
+    },
+    {
+      "date": "1983-02-01",
+      "value": 12.53,
+      "raw_values": {
+        "M2SL": 1996.8
+      }
+    },
+    {
+      "date": "1983-03-01",
+      "value": 12.8,
+      "raw_values": {
+        "M2SL": 2015.2
+      }
+    },
+    {
+      "date": "1983-04-01",
+      "value": 12.46,
+      "raw_values": {
+        "M2SL": 2028.6
+      }
+    },
+    {
+      "date": "1983-05-01",
+      "value": 12.54,
+      "raw_values": {
+        "M2SL": 2043.1
+      }
+    },
+    {
+      "date": "1983-06-01",
+      "value": 12.46,
+      "raw_values": {
+        "M2SL": 2053.5
+      }
+    },
+    {
+      "date": "1983-07-01",
+      "value": 12.74,
+      "raw_values": {
+        "M2SL": 2064.8
+      }
+    },
+    {
+      "date": "1983-08-01",
+      "value": 12.4,
+      "raw_values": {
+        "M2SL": 2074.0
+      }
+    },
+    {
+      "date": "1983-09-01",
+      "value": 12.1,
+      "raw_values": {
+        "M2SL": 2083.2
+      }
+    },
+    {
+      "date": "1983-10-01",
+      "value": 12.27,
+      "raw_values": {
+        "M2SL": 2099.2
+      }
+    },
+    {
+      "date": "1983-11-01",
+      "value": 12.14,
+      "raw_values": {
+        "M2SL": 2112.3
+      }
+    },
+    {
+      "date": "1983-12-01",
+      "value": 11.42,
+      "raw_values": {
+        "M2SL": 2123.5
+      }
+    },
+    {
+      "date": "1984-01-01",
+      "value": 9.13,
+      "raw_values": {
+        "M2SL": 2138.2
+      }
+    },
+    {
+      "date": "1984-02-01",
+      "value": 8.08,
+      "raw_values": {
+        "M2SL": 2158.2
+      }
+    },
+    {
+      "date": "1984-03-01",
+      "value": 7.94,
+      "raw_values": {
+        "M2SL": 2175.2
+      }
+    },
+    {
+      "date": "1984-04-01",
+      "value": 8.04,
+      "raw_values": {
+        "M2SL": 2191.7
+      }
+    },
+    {
+      "date": "1984-05-01",
+      "value": 7.88,
+      "raw_values": {
+        "M2SL": 2204.1
+      }
+    },
+    {
+      "date": "1984-06-01",
+      "value": 7.87,
+      "raw_values": {
+        "M2SL": 2215.1
+      }
+    },
+    {
+      "date": "1984-07-01",
+      "value": 7.69,
+      "raw_values": {
+        "M2SL": 2223.5
+      }
+    },
+    {
+      "date": "1984-08-01",
+      "value": 7.54,
+      "raw_values": {
+        "M2SL": 2230.4
+      }
+    },
+    {
+      "date": "1984-09-01",
+      "value": 7.74,
+      "raw_values": {
+        "M2SL": 2244.4
+      }
+    },
+    {
+      "date": "1984-10-01",
+      "value": 7.61,
+      "raw_values": {
+        "M2SL": 2258.9
+      }
+    },
+    {
+      "date": "1984-11-01",
+      "value": 8.01,
+      "raw_values": {
+        "M2SL": 2281.4
+      }
+    },
+    {
+      "date": "1984-12-01",
+      "value": 8.61,
+      "raw_values": {
+        "M2SL": 2306.4
+      }
+    },
+    {
+      "date": "1985-01-01",
+      "value": 9.08,
+      "raw_values": {
+        "M2SL": 2332.4
+      }
+    },
+    {
+      "date": "1985-02-01",
+      "value": 9.08,
+      "raw_values": {
+        "M2SL": 2354.1
+      }
+    },
+    {
+      "date": "1985-03-01",
+      "value": 8.78,
+      "raw_values": {
+        "M2SL": 2366.2
+      }
+    },
+    {
+      "date": "1985-04-01",
+      "value": 8.38,
+      "raw_values": {
+        "M2SL": 2375.4
+      }
+    },
+    {
+      "date": "1985-05-01",
+      "value": 8.41,
+      "raw_values": {
+        "M2SL": 2389.5
+      }
+    },
+    {
+      "date": "1985-06-01",
+      "value": 8.92,
+      "raw_values": {
+        "M2SL": 2412.6
+      }
+    },
+    {
+      "date": "1985-07-01",
+      "value": 9.26,
+      "raw_values": {
+        "M2SL": 2429.5
+      }
+    },
+    {
+      "date": "1985-08-01",
+      "value": 9.58,
+      "raw_values": {
+        "M2SL": 2444.0
+      }
+    },
+    {
+      "date": "1985-09-01",
+      "value": 9.45,
+      "raw_values": {
+        "M2SL": 2456.4
+      }
+    },
+    {
+      "date": "1985-10-01",
+      "value": 9.26,
+      "raw_values": {
+        "M2SL": 2468.0
+      }
+    },
+    {
+      "date": "1985-11-01",
+      "value": 8.61,
+      "raw_values": {
+        "M2SL": 2477.8
+      }
+    },
+    {
+      "date": "1985-12-01",
+      "value": 8.05,
+      "raw_values": {
+        "M2SL": 2492.1
+      }
+    },
+    {
+      "date": "1986-01-01",
+      "value": 7.28,
+      "raw_values": {
+        "M2SL": 2502.1
+      }
+    },
+    {
+      "date": "1986-02-01",
+      "value": 6.75,
+      "raw_values": {
+        "M2SL": 2512.9
+      }
+    },
+    {
+      "date": "1986-03-01",
+      "value": 7.05,
+      "raw_values": {
+        "M2SL": 2533.1
+      }
+    },
+    {
+      "date": "1986-04-01",
+      "value": 7.68,
+      "raw_values": {
+        "M2SL": 2557.8
+      }
+    },
+    {
+      "date": "1986-05-01",
+      "value": 8.17,
+      "raw_values": {
+        "M2SL": 2584.8
+      }
+    },
+    {
+      "date": "1986-06-01",
+      "value": 7.97,
+      "raw_values": {
+        "M2SL": 2605.0
+      }
+    },
+    {
+      "date": "1986-07-01",
+      "value": 8.11,
+      "raw_values": {
+        "M2SL": 2626.6
+      }
+    },
+    {
+      "date": "1986-08-01",
+      "value": 8.29,
+      "raw_values": {
+        "M2SL": 2646.5
+      }
+    },
+    {
+      "date": "1986-09-01",
+      "value": 8.61,
+      "raw_values": {
+        "M2SL": 2667.8
+      }
+    },
+    {
+      "date": "1986-10-01",
+      "value": 8.89,
+      "raw_values": {
+        "M2SL": 2687.4
+      }
+    },
+    {
+      "date": "1986-11-01",
+      "value": 9.02,
+      "raw_values": {
+        "M2SL": 2701.3
+      }
+    },
+    {
+      "date": "1986-12-01",
+      "value": 9.47,
+      "raw_values": {
+        "M2SL": 2728.0
+      }
+    },
+    {
+      "date": "1987-01-01",
+      "value": 9.66,
+      "raw_values": {
+        "M2SL": 2743.9
+      }
+    },
+    {
+      "date": "1987-02-01",
+      "value": 9.34,
+      "raw_values": {
+        "M2SL": 2747.5
+      }
+    },
+    {
+      "date": "1987-03-01",
+      "value": 8.71,
+      "raw_values": {
+        "M2SL": 2753.7
+      }
+    },
+    {
+      "date": "1987-04-01",
+      "value": 8.21,
+      "raw_values": {
+        "M2SL": 2767.7
+      }
+    },
+    {
+      "date": "1987-05-01",
+      "value": 7.28,
+      "raw_values": {
+        "M2SL": 2772.9
+      }
+    },
+    {
+      "date": "1987-06-01",
+      "value": 6.51,
+      "raw_values": {
+        "M2SL": 2774.6
+      }
+    },
+    {
+      "date": "1987-07-01",
+      "value": 5.8,
+      "raw_values": {
+        "M2SL": 2779.0
+      }
+    },
+    {
+      "date": "1987-08-01",
+      "value": 5.35,
+      "raw_values": {
+        "M2SL": 2788.2
+      }
+    },
+    {
+      "date": "1987-09-01",
+      "value": 4.94,
+      "raw_values": {
+        "M2SL": 2799.5
+      }
+    },
+    {
+      "date": "1987-10-01",
+      "value": 4.74,
+      "raw_values": {
+        "M2SL": 2814.8
+      }
+    },
+    {
+      "date": "1987-11-01",
+      "value": 4.35,
+      "raw_values": {
+        "M2SL": 2818.9
+      }
+    },
+    {
+      "date": "1987-12-01",
+      "value": 3.61,
+      "raw_values": {
+        "M2SL": 2826.4
+      }
+    },
+    {
+      "date": "1988-01-01",
+      "value": 3.77,
+      "raw_values": {
+        "M2SL": 2847.4
+      }
+    },
+    {
+      "date": "1988-02-01",
+      "value": 4.47,
+      "raw_values": {
+        "M2SL": 2870.4
+      }
+    },
+    {
+      "date": "1988-03-01",
+      "value": 4.98,
+      "raw_values": {
+        "M2SL": 2890.7
+      }
+    },
+    {
+      "date": "1988-04-01",
+      "value": 5.17,
+      "raw_values": {
+        "M2SL": 2910.7
+      }
+    },
+    {
+      "date": "1988-05-01",
+      "value": 5.52,
+      "raw_values": {
+        "M2SL": 2926.0
+      }
+    },
+    {
+      "date": "1988-06-01",
+      "value": 5.9,
+      "raw_values": {
+        "M2SL": 2938.4
+      }
+    },
+    {
+      "date": "1988-07-01",
+      "value": 6.05,
+      "raw_values": {
+        "M2SL": 2947.2
+      }
+    },
+    {
+      "date": "1988-08-01",
+      "value": 5.87,
+      "raw_values": {
+        "M2SL": 2952.0
+      }
+    },
+    {
+      "date": "1988-09-01",
+      "value": 5.62,
+      "raw_values": {
+        "M2SL": 2956.9
+      }
+    },
+    {
+      "date": "1988-10-01",
+      "value": 5.35,
+      "raw_values": {
+        "M2SL": 2965.3
+      }
+    },
+    {
+      "date": "1988-11-01",
+      "value": 5.72,
+      "raw_values": {
+        "M2SL": 2980.2
+      }
+    },
+    {
+      "date": "1988-12-01",
+      "value": 5.72,
+      "raw_values": {
+        "M2SL": 2988.2
+      }
+    },
+    {
+      "date": "1989-01-01",
+      "value": 5.07,
+      "raw_values": {
+        "M2SL": 2991.7
+      }
+    },
+    {
+      "date": "1989-02-01",
+      "value": 4.24,
+      "raw_values": {
+        "M2SL": 2992.2
+      }
+    },
+    {
+      "date": "1989-03-01",
+      "value": 3.77,
+      "raw_values": {
+        "M2SL": 2999.7
+      }
+    },
+    {
+      "date": "1989-04-01",
+      "value": 3.27,
+      "raw_values": {
+        "M2SL": 3006.0
+      }
+    },
+    {
+      "date": "1989-05-01",
+      "value": 2.93,
+      "raw_values": {
+        "M2SL": 3011.6
+      }
+    },
+    {
+      "date": "1989-06-01",
+      "value": 3.05,
+      "raw_values": {
+        "M2SL": 3027.9
+      }
+    },
+    {
+      "date": "1989-07-01",
+      "value": 3.57,
+      "raw_values": {
+        "M2SL": 3052.4
+      }
+    },
+    {
+      "date": "1989-08-01",
+      "value": 4.15,
+      "raw_values": {
+        "M2SL": 3074.4
+      }
+    },
+    {
+      "date": "1989-09-01",
+      "value": 4.59,
+      "raw_values": {
+        "M2SL": 3092.5
+      }
+    },
+    {
+      "date": "1989-10-01",
+      "value": 5.02,
+      "raw_values": {
+        "M2SL": 3114.1
+      }
+    },
+    {
+      "date": "1989-11-01",
+      "value": 5.14,
+      "raw_values": {
+        "M2SL": 3133.3
+      }
+    },
+    {
+      "date": "1989-12-01",
+      "value": 5.5,
+      "raw_values": {
+        "M2SL": 3152.5
+      }
+    },
+    {
+      "date": "1990-01-01",
+      "value": 5.85,
+      "raw_values": {
+        "M2SL": 3166.8
+      }
+    },
+    {
+      "date": "1990-02-01",
+      "value": 6.25,
+      "raw_values": {
+        "M2SL": 3179.2
+      }
+    },
+    {
+      "date": "1990-03-01",
+      "value": 6.35,
+      "raw_values": {
+        "M2SL": 3190.1
+      }
+    },
+    {
+      "date": "1990-04-01",
+      "value": 6.51,
+      "raw_values": {
+        "M2SL": 3201.6
+      }
+    },
+    {
+      "date": "1990-05-01",
+      "value": 6.28,
+      "raw_values": {
+        "M2SL": 3200.6
+      }
+    },
+    {
+      "date": "1990-06-01",
+      "value": 6.14,
+      "raw_values": {
+        "M2SL": 3213.7
+      }
+    },
+    {
+      "date": "1990-07-01",
+      "value": 5.64,
+      "raw_values": {
+        "M2SL": 3224.5
+      }
+    },
+    {
+      "date": "1990-08-01",
+      "value": 5.45,
+      "raw_values": {
+        "M2SL": 3242.0
+      }
+    },
+    {
+      "date": "1990-09-01",
+      "value": 5.24,
+      "raw_values": {
+        "M2SL": 3254.6
+      }
+    },
+    {
+      "date": "1990-10-01",
+      "value": 4.66,
+      "raw_values": {
+        "M2SL": 3259.3
+      }
+    },
+    {
+      "date": "1990-11-01",
+      "value": 4.13,
+      "raw_values": {
+        "M2SL": 3262.6
+      }
+    },
+    {
+      "date": "1990-12-01",
+      "value": 3.78,
+      "raw_values": {
+        "M2SL": 3271.8
+      }
+    },
+    {
+      "date": "1991-01-01",
+      "value": 3.82,
+      "raw_values": {
+        "M2SL": 3287.7
+      }
+    },
+    {
+      "date": "1991-02-01",
+      "value": 3.94,
+      "raw_values": {
+        "M2SL": 3304.5
+      }
+    },
+    {
+      "date": "1991-03-01",
+      "value": 4.13,
+      "raw_values": {
+        "M2SL": 3321.9
+      }
+    },
+    {
+      "date": "1991-04-01",
+      "value": 4.09,
+      "raw_values": {
+        "M2SL": 3332.4
+      }
+    },
+    {
+      "date": "1991-05-01",
+      "value": 4.45,
+      "raw_values": {
+        "M2SL": 3343.0
+      }
+    },
+    {
+      "date": "1991-06-01",
+      "value": 4.3,
+      "raw_values": {
+        "M2SL": 3351.9
+      }
+    },
+    {
+      "date": "1991-07-01",
+      "value": 4.08,
+      "raw_values": {
+        "M2SL": 3356.1
+      }
+    },
+    {
+      "date": "1991-08-01",
+      "value": 3.49,
+      "raw_values": {
+        "M2SL": 3355.0
+      }
+    },
+    {
+      "date": "1991-09-01",
+      "value": 3.08,
+      "raw_values": {
+        "M2SL": 3354.9
+      }
+    },
+    {
+      "date": "1991-10-01",
+      "value": 3.09,
+      "raw_values": {
+        "M2SL": 3360.1
+      }
+    },
+    {
+      "date": "1991-11-01",
+      "value": 3.15,
+      "raw_values": {
+        "M2SL": 3365.5
+      }
+    },
+    {
+      "date": "1991-12-01",
+      "value": 3.07,
+      "raw_values": {
+        "M2SL": 3372.2
+      }
+    },
+    {
+      "date": "1992-01-01",
+      "value": 2.84,
+      "raw_values": {
+        "M2SL": 3381.2
+      }
+    },
+    {
+      "date": "1992-02-01",
+      "value": 2.89,
+      "raw_values": {
+        "M2SL": 3400.0
+      }
+    },
+    {
+      "date": "1992-03-01",
+      "value": 2.47,
+      "raw_values": {
+        "M2SL": 3403.9
+      }
+    },
+    {
+      "date": "1992-04-01",
+      "value": 2.02,
+      "raw_values": {
+        "M2SL": 3399.7
+      }
+    },
+    {
+      "date": "1992-05-01",
+      "value": 1.66,
+      "raw_values": {
+        "M2SL": 3398.6
+      }
+    },
+    {
+      "date": "1992-06-01",
+      "value": 1.24,
+      "raw_values": {
+        "M2SL": 3393.4
+      }
+    },
+    {
+      "date": "1992-07-01",
+      "value": 1.13,
+      "raw_values": {
+        "M2SL": 3393.9
+      }
+    },
+    {
+      "date": "1992-08-01",
+      "value": 1.31,
+      "raw_values": {
+        "M2SL": 3398.8
+      }
+    },
+    {
+      "date": "1992-09-01",
+      "value": 1.65,
+      "raw_values": {
+        "M2SL": 3410.3
+      }
+    },
+    {
+      "date": "1992-10-01",
+      "value": 1.9,
+      "raw_values": {
+        "M2SL": 3423.8
+      }
+    },
+    {
+      "date": "1992-11-01",
+      "value": 1.81,
+      "raw_values": {
+        "M2SL": 3426.5
+      }
+    },
+    {
+      "date": "1992-12-01",
+      "value": 1.56,
+      "raw_values": {
+        "M2SL": 3424.7
+      }
+    },
+    {
+      "date": "1993-01-01",
+      "value": 1.12,
+      "raw_values": {
+        "M2SL": 3419.1
+      }
+    },
+    {
+      "date": "1993-02-01",
+      "value": 0.43,
+      "raw_values": {
+        "M2SL": 3414.5
+      }
+    },
+    {
+      "date": "1993-03-01",
+      "value": 0.23,
+      "raw_values": {
+        "M2SL": 3411.7
+      }
+    },
+    {
+      "date": "1993-04-01",
+      "value": 0.34,
+      "raw_values": {
+        "M2SL": 3411.3
+      }
+    },
+    {
+      "date": "1993-05-01",
+      "value": 1.13,
+      "raw_values": {
+        "M2SL": 3436.9
+      }
+    },
+    {
+      "date": "1993-06-01",
+      "value": 1.44,
+      "raw_values": {
+        "M2SL": 3442.4
+      }
+    },
+    {
+      "date": "1993-07-01",
+      "value": 1.42,
+      "raw_values": {
+        "M2SL": 3442.0
+      }
+    },
+    {
+      "date": "1993-08-01",
+      "value": 1.38,
+      "raw_values": {
+        "M2SL": 3445.7
+      }
+    },
+    {
+      "date": "1993-09-01",
+      "value": 1.23,
+      "raw_values": {
+        "M2SL": 3452.2
+      }
+    },
+    {
+      "date": "1993-10-01",
+      "value": 0.96,
+      "raw_values": {
+        "M2SL": 3456.7
+      }
+    },
+    {
+      "date": "1993-11-01",
+      "value": 1.27,
+      "raw_values": {
+        "M2SL": 3470.1
+      }
+    },
+    {
+      "date": "1993-12-01",
+      "value": 1.45,
+      "raw_values": {
+        "M2SL": 3474.5
+      }
+    },
+    {
+      "date": "1994-01-01",
+      "value": 1.63,
+      "raw_values": {
+        "M2SL": 3474.9
+      }
+    },
+    {
+      "date": "1994-02-01",
+      "value": 1.79,
+      "raw_values": {
+        "M2SL": 3475.7
+      }
+    },
+    {
+      "date": "1994-03-01",
+      "value": 2.0,
+      "raw_values": {
+        "M2SL": 3480.1
+      }
+    },
+    {
+      "date": "1994-04-01",
+      "value": 2.05,
+      "raw_values": {
+        "M2SL": 3481.3
+      }
+    },
+    {
+      "date": "1994-05-01",
+      "value": 1.57,
+      "raw_values": {
+        "M2SL": 3490.8
+      }
+    },
+    {
+      "date": "1994-06-01",
+      "value": 1.08,
+      "raw_values": {
+        "M2SL": 3479.5
+      }
+    },
+    {
+      "date": "1994-07-01",
+      "value": 1.34,
+      "raw_values": {
+        "M2SL": 3488.2
+      }
+    },
+    {
+      "date": "1994-08-01",
+      "value": 1.16,
+      "raw_values": {
+        "M2SL": 3485.7
+      }
+    },
+    {
+      "date": "1994-09-01",
+      "value": 0.98,
+      "raw_values": {
+        "M2SL": 3486.1
+      }
+    },
+    {
+      "date": "1994-10-01",
+      "value": 0.8,
+      "raw_values": {
+        "M2SL": 3484.3
+      }
+    },
+    {
+      "date": "1994-11-01",
+      "value": 0.49,
+      "raw_values": {
+        "M2SL": 3487.2
+      }
+    },
+    {
+      "date": "1994-12-01",
+      "value": 0.34,
+      "raw_values": {
+        "M2SL": 3486.4
+      }
+    },
+    {
+      "date": "1995-01-01",
+      "value": 0.5,
+      "raw_values": {
+        "M2SL": 3492.4
+      }
+    },
+    {
+      "date": "1995-02-01",
+      "value": 0.41,
+      "raw_values": {
+        "M2SL": 3489.9
+      }
+    },
+    {
+      "date": "1995-03-01",
+      "value": 0.32,
+      "raw_values": {
+        "M2SL": 3491.1
+      }
+    },
+    {
+      "date": "1995-04-01",
+      "value": 0.51,
+      "raw_values": {
+        "M2SL": 3499.2
+      }
+    },
+    {
+      "date": "1995-05-01",
+      "value": 0.96,
+      "raw_values": {
+        "M2SL": 3524.2
+      }
+    },
+    {
+      "date": "1995-06-01",
+      "value": 1.99,
+      "raw_values": {
+        "M2SL": 3548.9
+      }
+    },
+    {
+      "date": "1995-07-01",
+      "value": 2.27,
+      "raw_values": {
+        "M2SL": 3567.4
+      }
+    },
+    {
+      "date": "1995-08-01",
+      "value": 2.96,
+      "raw_values": {
+        "M2SL": 3589.0
+      }
+    },
+    {
+      "date": "1995-09-01",
+      "value": 3.33,
+      "raw_values": {
+        "M2SL": 3602.1
+      }
+    },
+    {
+      "date": "1995-10-01",
+      "value": 3.71,
+      "raw_values": {
+        "M2SL": 3613.4
+      }
+    },
+    {
+      "date": "1995-11-01",
+      "value": 3.81,
+      "raw_values": {
+        "M2SL": 3619.9
+      }
+    },
+    {
+      "date": "1995-12-01",
+      "value": 4.1,
+      "raw_values": {
+        "M2SL": 3629.5
+      }
+    },
+    {
+      "date": "1996-01-01",
+      "value": 4.45,
+      "raw_values": {
+        "M2SL": 3647.9
+      }
+    },
+    {
+      "date": "1996-02-01",
+      "value": 4.93,
+      "raw_values": {
+        "M2SL": 3661.8
+      }
+    },
+    {
+      "date": "1996-03-01",
+      "value": 5.61,
+      "raw_values": {
+        "M2SL": 3686.9
+      }
+    },
+    {
+      "date": "1996-04-01",
+      "value": 5.67,
+      "raw_values": {
+        "M2SL": 3697.7
+      }
+    },
+    {
+      "date": "1996-05-01",
+      "value": 5.26,
+      "raw_values": {
+        "M2SL": 3709.6
+      }
+    },
+    {
+      "date": "1996-06-01",
+      "value": 4.89,
+      "raw_values": {
+        "M2SL": 3722.5
+      }
+    },
+    {
+      "date": "1996-07-01",
+      "value": 4.76,
+      "raw_values": {
+        "M2SL": 3737.1
+      }
+    },
+    {
+      "date": "1996-08-01",
+      "value": 4.32,
+      "raw_values": {
+        "M2SL": 3744.0
+      }
+    },
+    {
+      "date": "1996-09-01",
+      "value": 4.2,
+      "raw_values": {
+        "M2SL": 3753.4
+      }
+    },
+    {
+      "date": "1996-10-01",
+      "value": 4.41,
+      "raw_values": {
+        "M2SL": 3772.8
+      }
+    },
+    {
+      "date": "1996-11-01",
+      "value": 4.84,
+      "raw_values": {
+        "M2SL": 3795.1
+      }
+    },
+    {
+      "date": "1996-12-01",
+      "value": 5.21,
+      "raw_values": {
+        "M2SL": 3818.6
+      }
+    },
+    {
+      "date": "1997-01-01",
+      "value": 5.12,
+      "raw_values": {
+        "M2SL": 3834.6
+      }
+    },
+    {
+      "date": "1997-02-01",
+      "value": 5.04,
+      "raw_values": {
+        "M2SL": 3846.3
+      }
+    },
+    {
+      "date": "1997-03-01",
+      "value": 4.73,
+      "raw_values": {
+        "M2SL": 3861.2
+      }
+    },
+    {
+      "date": "1997-04-01",
+      "value": 4.85,
+      "raw_values": {
+        "M2SL": 3877.0
+      }
+    },
+    {
+      "date": "1997-05-01",
+      "value": 4.84,
+      "raw_values": {
+        "M2SL": 3889.2
+      }
+    },
+    {
+      "date": "1997-06-01",
+      "value": 4.93,
+      "raw_values": {
+        "M2SL": 3906.0
+      }
+    },
+    {
+      "date": "1997-07-01",
+      "value": 5.0,
+      "raw_values": {
+        "M2SL": 3923.9
+      }
+    },
+    {
+      "date": "1997-08-01",
+      "value": 5.7,
+      "raw_values": {
+        "M2SL": 3957.4
+      }
+    },
+    {
+      "date": "1997-09-01",
+      "value": 5.85,
+      "raw_values": {
+        "M2SL": 3973.1
+      }
+    },
+    {
+      "date": "1997-10-01",
+      "value": 5.82,
+      "raw_values": {
+        "M2SL": 3992.3
+      }
+    },
+    {
+      "date": "1997-11-01",
+      "value": 5.79,
+      "raw_values": {
+        "M2SL": 4014.8
+      }
+    },
+    {
+      "date": "1997-12-01",
+      "value": 5.61,
+      "raw_values": {
+        "M2SL": 4032.9
+      }
+    },
+    {
+      "date": "1998-01-01",
+      "value": 5.78,
+      "raw_values": {
+        "M2SL": 4056.2
+      }
+    },
+    {
+      "date": "1998-02-01",
+      "value": 6.31,
+      "raw_values": {
+        "M2SL": 4088.9
+      }
+    },
+    {
+      "date": "1998-03-01",
+      "value": 6.55,
+      "raw_values": {
+        "M2SL": 4114.3
+      }
+    },
+    {
+      "date": "1998-04-01",
+      "value": 6.79,
+      "raw_values": {
+        "M2SL": 4140.2
+      }
+    },
+    {
+      "date": "1998-05-01",
+      "value": 7.08,
+      "raw_values": {
+        "M2SL": 4164.4
+      }
+    },
+    {
+      "date": "1998-06-01",
+      "value": 7.12,
+      "raw_values": {
+        "M2SL": 4184.1
+      }
+    },
+    {
+      "date": "1998-07-01",
+      "value": 7.13,
+      "raw_values": {
+        "M2SL": 4203.8
+      }
+    },
+    {
+      "date": "1998-08-01",
+      "value": 6.86,
+      "raw_values": {
+        "M2SL": 4228.7
+      }
+    },
+    {
+      "date": "1998-09-01",
+      "value": 7.41,
+      "raw_values": {
+        "M2SL": 4267.7
+      }
+    },
+    {
+      "date": "1998-10-01",
+      "value": 7.91,
+      "raw_values": {
+        "M2SL": 4307.9
+      }
+    },
+    {
+      "date": "1998-11-01",
+      "value": 8.26,
+      "raw_values": {
+        "M2SL": 4346.6
+      }
+    },
+    {
+      "date": "1998-12-01",
+      "value": 8.5,
+      "raw_values": {
+        "M2SL": 4375.6
+      }
+    },
+    {
+      "date": "1999-01-01",
+      "value": 8.55,
+      "raw_values": {
+        "M2SL": 4403.0
+      }
+    },
+    {
+      "date": "1999-02-01",
+      "value": 8.24,
+      "raw_values": {
+        "M2SL": 4425.8
+      }
+    },
+    {
+      "date": "1999-03-01",
+      "value": 7.74,
+      "raw_values": {
+        "M2SL": 4432.6
+      }
+    },
+    {
+      "date": "1999-04-01",
+      "value": 7.76,
+      "raw_values": {
+        "M2SL": 4461.4
+      }
+    },
+    {
+      "date": "1999-05-01",
+      "value": 7.73,
+      "raw_values": {
+        "M2SL": 4486.1
+      }
+    },
+    {
+      "date": "1999-06-01",
+      "value": 7.74,
+      "raw_values": {
+        "M2SL": 4508.0
+      }
+    },
+    {
+      "date": "1999-07-01",
+      "value": 7.89,
+      "raw_values": {
+        "M2SL": 4535.4
+      }
+    },
+    {
+      "date": "1999-08-01",
+      "value": 7.66,
+      "raw_values": {
+        "M2SL": 4552.7
+      }
+    },
+    {
+      "date": "1999-09-01",
+      "value": 7.06,
+      "raw_values": {
+        "M2SL": 4568.8
+      }
+    },
+    {
+      "date": "1999-10-01",
+      "value": 6.61,
+      "raw_values": {
+        "M2SL": 4592.7
+      }
+    },
+    {
+      "date": "1999-11-01",
+      "value": 6.1,
+      "raw_values": {
+        "M2SL": 4611.8
+      }
+    },
+    {
+      "date": "1999-12-01",
+      "value": 6.03,
+      "raw_values": {
+        "M2SL": 4639.3
+      }
+    },
+    {
+      "date": "2000-01-01",
+      "value": 6.01,
+      "raw_values": {
+        "M2SL": 4667.6
+      }
+    },
+    {
+      "date": "2000-02-01",
+      "value": 5.76,
+      "raw_values": {
+        "M2SL": 4680.9
+      }
+    },
+    {
+      "date": "2000-03-01",
+      "value": 6.3,
+      "raw_values": {
+        "M2SL": 4711.7
+      }
+    },
+    {
+      "date": "2000-04-01",
+      "value": 6.87,
+      "raw_values": {
+        "M2SL": 4767.8
+      }
+    },
+    {
+      "date": "2000-05-01",
+      "value": 6.01,
+      "raw_values": {
+        "M2SL": 4755.7
+      }
+    },
+    {
+      "date": "2000-06-01",
+      "value": 5.89,
+      "raw_values": {
+        "M2SL": 4773.6
+      }
+    },
+    {
+      "date": "2000-07-01",
+      "value": 5.64,
+      "raw_values": {
+        "M2SL": 4791.3
+      }
+    },
+    {
+      "date": "2000-08-01",
+      "value": 5.86,
+      "raw_values": {
+        "M2SL": 4819.5
+      }
+    },
+    {
+      "date": "2000-09-01",
+      "value": 6.27,
+      "raw_values": {
+        "M2SL": 4855.2
+      }
+    },
+    {
+      "date": "2000-10-01",
+      "value": 6.07,
+      "raw_values": {
+        "M2SL": 4871.3
+      }
+    },
+    {
+      "date": "2000-11-01",
+      "value": 5.87,
+      "raw_values": {
+        "M2SL": 4882.7
+      }
+    },
+    {
+      "date": "2000-12-01",
+      "value": 6.21,
+      "raw_values": {
+        "M2SL": 4927.6
+      }
+    },
+    {
+      "date": "2001-01-01",
+      "value": 6.66,
+      "raw_values": {
+        "M2SL": 4978.3
+      }
+    },
+    {
+      "date": "2001-02-01",
+      "value": 7.18,
+      "raw_values": {
+        "M2SL": 5017.0
+      }
+    },
+    {
+      "date": "2001-03-01",
+      "value": 7.71,
+      "raw_values": {
+        "M2SL": 5074.8
+      }
+    },
+    {
+      "date": "2001-04-01",
+      "value": 7.79,
+      "raw_values": {
+        "M2SL": 5139.1
+      }
+    },
+    {
+      "date": "2001-05-01",
+      "value": 8.02,
+      "raw_values": {
+        "M2SL": 5137.2
+      }
+    },
+    {
+      "date": "2001-06-01",
+      "value": 8.52,
+      "raw_values": {
+        "M2SL": 5180.1
+      }
+    },
+    {
+      "date": "2001-07-01",
+      "value": 8.74,
+      "raw_values": {
+        "M2SL": 5210.0
+      }
+    },
+    {
+      "date": "2001-08-01",
+      "value": 8.8,
+      "raw_values": {
+        "M2SL": 5243.8
+      }
+    },
+    {
+      "date": "2001-09-01",
+      "value": 10.3,
+      "raw_values": {
+        "M2SL": 5355.1
+      }
+    },
+    {
+      "date": "2001-10-01",
+      "value": 9.7,
+      "raw_values": {
+        "M2SL": 5343.8
+      }
+    },
+    {
+      "date": "2001-11-01",
+      "value": 10.34,
+      "raw_values": {
+        "M2SL": 5387.5
+      }
+    },
+    {
+      "date": "2001-12-01",
+      "value": 10.41,
+      "raw_values": {
+        "M2SL": 5440.5
+      }
+    },
+    {
+      "date": "2002-01-01",
+      "value": 9.69,
+      "raw_values": {
+        "M2SL": 5460.9
+      }
+    },
+    {
+      "date": "2002-02-01",
+      "value": 9.43,
+      "raw_values": {
+        "M2SL": 5490.2
+      }
+    },
+    {
+      "date": "2002-03-01",
+      "value": 8.42,
+      "raw_values": {
+        "M2SL": 5502.0
+      }
+    },
+    {
+      "date": "2002-04-01",
+      "value": 7.06,
+      "raw_values": {
+        "M2SL": 5502.1
+      }
+    },
+    {
+      "date": "2002-05-01",
+      "value": 7.61,
+      "raw_values": {
+        "M2SL": 5528.3
+      }
+    },
+    {
+      "date": "2002-06-01",
+      "value": 7.2,
+      "raw_values": {
+        "M2SL": 5553.3
+      }
+    },
+    {
+      "date": "2002-07-01",
+      "value": 7.41,
+      "raw_values": {
+        "M2SL": 5596.0
+      }
+    },
+    {
+      "date": "2002-08-01",
+      "value": 7.52,
+      "raw_values": {
+        "M2SL": 5638.3
+      }
+    },
+    {
+      "date": "2002-09-01",
+      "value": 5.74,
+      "raw_values": {
+        "M2SL": 5662.3
+      }
+    },
+    {
+      "date": "2002-10-01",
+      "value": 6.8,
+      "raw_values": {
+        "M2SL": 5707.1
+      }
+    },
+    {
+      "date": "2002-11-01",
+      "value": 6.88,
+      "raw_values": {
+        "M2SL": 5758.1
+      }
+    },
+    {
+      "date": "2002-12-01",
+      "value": 6.23,
+      "raw_values": {
+        "M2SL": 5779.4
+      }
+    },
+    {
+      "date": "2003-01-01",
+      "value": 6.43,
+      "raw_values": {
+        "M2SL": 5812.1
+      }
+    },
+    {
+      "date": "2003-02-01",
+      "value": 6.52,
+      "raw_values": {
+        "M2SL": 5848.2
+      }
+    },
+    {
+      "date": "2003-03-01",
+      "value": 6.66,
+      "raw_values": {
+        "M2SL": 5868.4
+      }
+    },
+    {
+      "date": "2003-04-01",
+      "value": 7.33,
+      "raw_values": {
+        "M2SL": 5905.5
+      }
+    },
+    {
+      "date": "2003-05-01",
+      "value": 7.9,
+      "raw_values": {
+        "M2SL": 5965.3
+      }
+    },
+    {
+      "date": "2003-06-01",
+      "value": 8.08,
+      "raw_values": {
+        "M2SL": 6002.2
+      }
+    },
+    {
+      "date": "2003-07-01",
+      "value": 8.1,
+      "raw_values": {
+        "M2SL": 6049.1
+      }
+    },
+    {
+      "date": "2003-08-01",
+      "value": 8.31,
+      "raw_values": {
+        "M2SL": 6107.1
+      }
+    },
+    {
+      "date": "2003-09-01",
+      "value": 7.37,
+      "raw_values": {
+        "M2SL": 6079.7
+      }
+    },
+    {
+      "date": "2003-10-01",
+      "value": 6.36,
+      "raw_values": {
+        "M2SL": 6070.0
+      }
+    },
+    {
+      "date": "2003-11-01",
+      "value": 5.51,
+      "raw_values": {
+        "M2SL": 6075.5
+      }
+    },
+    {
+      "date": "2003-12-01",
+      "value": 5.09,
+      "raw_values": {
+        "M2SL": 6073.8
+      }
+    },
+    {
+      "date": "2004-01-01",
+      "value": 4.65,
+      "raw_values": {
+        "M2SL": 6082.1
+      }
+    },
+    {
+      "date": "2004-02-01",
+      "value": 4.68,
+      "raw_values": {
+        "M2SL": 6121.8
+      }
+    },
+    {
+      "date": "2004-03-01",
+      "value": 4.93,
+      "raw_values": {
+        "M2SL": 6157.9
+      }
+    },
+    {
+      "date": "2004-04-01",
+      "value": 4.97,
+      "raw_values": {
+        "M2SL": 6198.9
+      }
+    },
+    {
+      "date": "2004-05-01",
+      "value": 5.2,
+      "raw_values": {
+        "M2SL": 6275.7
+      }
+    },
+    {
+      "date": "2004-06-01",
+      "value": 4.59,
+      "raw_values": {
+        "M2SL": 6277.9
+      }
+    },
+    {
+      "date": "2004-07-01",
+      "value": 4.0,
+      "raw_values": {
+        "M2SL": 6291.1
+      }
+    },
+    {
+      "date": "2004-08-01",
+      "value": 3.45,
+      "raw_values": {
+        "M2SL": 6317.8
+      }
+    },
+    {
+      "date": "2004-09-01",
+      "value": 4.48,
+      "raw_values": {
+        "M2SL": 6352.2
+      }
+    },
+    {
+      "date": "2004-10-01",
+      "value": 5.1,
+      "raw_values": {
+        "M2SL": 6379.8
+      }
+    },
+    {
+      "date": "2004-11-01",
+      "value": 5.44,
+      "raw_values": {
+        "M2SL": 6406.3
+      }
+    },
+    {
+      "date": "2004-12-01",
+      "value": 5.77,
+      "raw_values": {
+        "M2SL": 6424.5
+      }
+    },
+    {
+      "date": "2005-01-01",
+      "value": 5.73,
+      "raw_values": {
+        "M2SL": 6430.8
+      }
+    },
+    {
+      "date": "2005-02-01",
+      "value": 5.18,
+      "raw_values": {
+        "M2SL": 6438.9
+      }
+    },
+    {
+      "date": "2005-03-01",
+      "value": 4.72,
+      "raw_values": {
+        "M2SL": 6448.3
+      }
+    },
+    {
+      "date": "2005-04-01",
+      "value": 4.24,
+      "raw_values": {
+        "M2SL": 6461.8
+      }
+    },
+    {
+      "date": "2005-05-01",
+      "value": 3.24,
+      "raw_values": {
+        "M2SL": 6479.0
+      }
+    },
+    {
+      "date": "2005-06-01",
+      "value": 3.72,
+      "raw_values": {
+        "M2SL": 6511.7
+      }
+    },
+    {
+      "date": "2005-07-01",
+      "value": 4.01,
+      "raw_values": {
+        "M2SL": 6543.5
+      }
+    },
+    {
+      "date": "2005-08-01",
+      "value": 4.09,
+      "raw_values": {
+        "M2SL": 6576.3
+      }
+    },
+    {
+      "date": "2005-09-01",
+      "value": 4.06,
+      "raw_values": {
+        "M2SL": 6610.1
+      }
+    },
+    {
+      "date": "2005-10-01",
+      "value": 4.14,
+      "raw_values": {
+        "M2SL": 6643.9
+      }
+    },
+    {
+      "date": "2005-11-01",
+      "value": 3.97,
+      "raw_values": {
+        "M2SL": 6660.7
+      }
+    },
+    {
+      "date": "2005-12-01",
+      "value": 4.1,
+      "raw_values": {
+        "M2SL": 6687.8
+      }
+    },
+    {
+      "date": "2006-01-01",
+      "value": 4.65,
+      "raw_values": {
+        "M2SL": 6730.1
+      }
+    },
+    {
+      "date": "2006-02-01",
+      "value": 4.9,
+      "raw_values": {
+        "M2SL": 6754.7
+      }
+    },
+    {
+      "date": "2006-03-01",
+      "value": 4.98,
+      "raw_values": {
+        "M2SL": 6769.3
+      }
+    },
+    {
+      "date": "2006-04-01",
+      "value": 5.34,
+      "raw_values": {
+        "M2SL": 6806.9
+      }
+    },
+    {
+      "date": "2006-05-01",
+      "value": 5.17,
+      "raw_values": {
+        "M2SL": 6813.7
+      }
+    },
+    {
+      "date": "2006-06-01",
+      "value": 5.22,
+      "raw_values": {
+        "M2SL": 6851.8
+      }
+    },
+    {
+      "date": "2006-07-01",
+      "value": 5.35,
+      "raw_values": {
+        "M2SL": 6893.6
+      }
+    },
+    {
+      "date": "2006-08-01",
+      "value": 5.3,
+      "raw_values": {
+        "M2SL": 6925.1
+      }
+    },
+    {
+      "date": "2006-09-01",
+      "value": 5.18,
+      "raw_values": {
+        "M2SL": 6952.4
+      }
+    },
+    {
+      "date": "2006-10-01",
+      "value": 5.39,
+      "raw_values": {
+        "M2SL": 7001.7
+      }
+    },
+    {
+      "date": "2006-11-01",
+      "value": 5.65,
+      "raw_values": {
+        "M2SL": 7037.2
+      }
+    },
+    {
+      "date": "2006-12-01",
+      "value": 5.87,
+      "raw_values": {
+        "M2SL": 7080.1
+      }
+    },
+    {
+      "date": "2007-01-01",
+      "value": 5.77,
+      "raw_values": {
+        "M2SL": 7118.3
+      }
+    },
+    {
+      "date": "2007-02-01",
+      "value": 5.62,
+      "raw_values": {
+        "M2SL": 7134.3
+      }
+    },
+    {
+      "date": "2007-03-01",
+      "value": 5.89,
+      "raw_values": {
+        "M2SL": 7168.2
+      }
+    },
+    {
+      "date": "2007-04-01",
+      "value": 6.37,
+      "raw_values": {
+        "M2SL": 7240.7
+      }
+    },
+    {
+      "date": "2007-05-01",
+      "value": 6.47,
+      "raw_values": {
+        "M2SL": 7254.6
+      }
+    },
+    {
+      "date": "2007-06-01",
+      "value": 6.36,
+      "raw_values": {
+        "M2SL": 7287.8
+      }
+    },
+    {
+      "date": "2007-07-01",
+      "value": 6.17,
+      "raw_values": {
+        "M2SL": 7318.7
+      }
+    },
+    {
+      "date": "2007-08-01",
+      "value": 6.78,
+      "raw_values": {
+        "M2SL": 7394.8
+      }
+    },
+    {
+      "date": "2007-09-01",
+      "value": 6.63,
+      "raw_values": {
+        "M2SL": 7413.0
+      }
+    },
+    {
+      "date": "2007-10-01",
+      "value": 6.09,
+      "raw_values": {
+        "M2SL": 7428.1
+      }
+    },
+    {
+      "date": "2007-11-01",
+      "value": 5.92,
+      "raw_values": {
+        "M2SL": 7453.6
+      }
+    },
+    {
+      "date": "2007-12-01",
+      "value": 5.7,
+      "raw_values": {
+        "M2SL": 7483.9
+      }
+    },
+    {
+      "date": "2008-01-01",
+      "value": 5.61,
+      "raw_values": {
+        "M2SL": 7517.5
+      }
+    },
+    {
+      "date": "2008-02-01",
+      "value": 6.58,
+      "raw_values": {
+        "M2SL": 7604.0
+      }
+    },
+    {
+      "date": "2008-03-01",
+      "value": 7.0,
+      "raw_values": {
+        "M2SL": 7670.0
+      }
+    },
+    {
+      "date": "2008-04-01",
+      "value": 6.52,
+      "raw_values": {
+        "M2SL": 7712.5
+      }
+    },
+    {
+      "date": "2008-05-01",
+      "value": 6.49,
+      "raw_values": {
+        "M2SL": 7725.2
+      }
+    },
+    {
+      "date": "2008-06-01",
+      "value": 6.26,
+      "raw_values": {
+        "M2SL": 7743.9
+      }
+    },
+    {
+      "date": "2008-07-01",
+      "value": 6.46,
+      "raw_values": {
+        "M2SL": 7791.2
+      }
+    },
+    {
+      "date": "2008-08-01",
+      "value": 5.56,
+      "raw_values": {
+        "M2SL": 7805.8
+      }
+    },
+    {
+      "date": "2008-09-01",
+      "value": 6.2,
+      "raw_values": {
+        "M2SL": 7872.4
+      }
+    },
+    {
+      "date": "2008-10-01",
+      "value": 7.36,
+      "raw_values": {
+        "M2SL": 7974.9
+      }
+    },
+    {
+      "date": "2008-11-01",
+      "value": 7.69,
+      "raw_values": {
+        "M2SL": 8027.0
+      }
+    },
+    {
+      "date": "2008-12-01",
+      "value": 9.63,
+      "raw_values": {
+        "M2SL": 8204.7
+      }
+    },
+    {
+      "date": "2009-01-01",
+      "value": 10.26,
+      "raw_values": {
+        "M2SL": 8289.0
+      }
+    },
+    {
+      "date": "2009-02-01",
+      "value": 9.41,
+      "raw_values": {
+        "M2SL": 8319.3
+      }
+    },
+    {
+      "date": "2009-03-01",
+      "value": 9.34,
+      "raw_values": {
+        "M2SL": 8386.4
+      }
+    },
+    {
+      "date": "2009-04-01",
+      "value": 8.8,
+      "raw_values": {
+        "M2SL": 8391.1
+      }
+    },
+    {
+      "date": "2009-05-01",
+      "value": 9.37,
+      "raw_values": {
+        "M2SL": 8449.2
+      }
+    },
+    {
+      "date": "2009-06-01",
+      "value": 9.24,
+      "raw_values": {
+        "M2SL": 8459.3
+      }
+    },
+    {
+      "date": "2009-07-01",
+      "value": 8.63,
+      "raw_values": {
+        "M2SL": 8463.5
+      }
+    },
+    {
+      "date": "2009-08-01",
+      "value": 8.42,
+      "raw_values": {
+        "M2SL": 8463.0
+      }
+    },
+    {
+      "date": "2009-09-01",
+      "value": 7.48,
+      "raw_values": {
+        "M2SL": 8461.6
+      }
+    },
+    {
+      "date": "2009-10-01",
+      "value": 6.43,
+      "raw_values": {
+        "M2SL": 8487.9
+      }
+    },
+    {
+      "date": "2009-11-01",
+      "value": 6.1,
+      "raw_values": {
+        "M2SL": 8517.0
+      }
+    },
+    {
+      "date": "2009-12-01",
+      "value": 3.75,
+      "raw_values": {
+        "M2SL": 8512.2
+      }
+    },
+    {
+      "date": "2010-01-01",
+      "value": 2.28,
+      "raw_values": {
+        "M2SL": 8477.7
+      }
+    },
+    {
+      "date": "2010-02-01",
+      "value": 2.5,
+      "raw_values": {
+        "M2SL": 8527.3
+      }
+    },
+    {
+      "date": "2010-03-01",
+      "value": 1.63,
+      "raw_values": {
+        "M2SL": 8523.5
+      }
+    },
+    {
+      "date": "2010-04-01",
+      "value": 1.95,
+      "raw_values": {
+        "M2SL": 8554.8
+      }
+    },
+    {
+      "date": "2010-05-01",
+      "value": 1.89,
+      "raw_values": {
+        "M2SL": 8609.0
+      }
+    },
+    {
+      "date": "2010-06-01",
+      "value": 2.0,
+      "raw_values": {
+        "M2SL": 8628.1
+      }
+    },
+    {
+      "date": "2010-07-01",
+      "value": 2.08,
+      "raw_values": {
+        "M2SL": 8639.5
+      }
+    },
+    {
+      "date": "2010-08-01",
+      "value": 2.66,
+      "raw_values": {
+        "M2SL": 8687.9
+      }
+    },
+    {
+      "date": "2010-09-01",
+      "value": 3.04,
+      "raw_values": {
+        "M2SL": 8718.7
+      }
+    },
+    {
+      "date": "2010-10-01",
+      "value": 3.3,
+      "raw_values": {
+        "M2SL": 8768.4
+      }
+    },
+    {
+      "date": "2010-11-01",
+      "value": 3.19,
+      "raw_values": {
+        "M2SL": 8789.0
+      }
+    },
+    {
+      "date": "2010-12-01",
+      "value": 3.65,
+      "raw_values": {
+        "M2SL": 8822.7
+      }
+    },
+    {
+      "date": "2011-01-01",
+      "value": 4.33,
+      "raw_values": {
+        "M2SL": 8845.0
+      }
+    },
+    {
+      "date": "2011-02-01",
+      "value": 4.47,
+      "raw_values": {
+        "M2SL": 8908.8
+      }
+    },
+    {
+      "date": "2011-03-01",
+      "value": 5.2,
+      "raw_values": {
+        "M2SL": 8966.8
+      }
+    },
+    {
+      "date": "2011-04-01",
+      "value": 5.56,
+      "raw_values": {
+        "M2SL": 9030.2
+      }
+    },
+    {
+      "date": "2011-05-01",
+      "value": 5.73,
+      "raw_values": {
+        "M2SL": 9102.5
+      }
+    },
+    {
+      "date": "2011-06-01",
+      "value": 6.36,
+      "raw_values": {
+        "M2SL": 9176.5
+      }
+    },
+    {
+      "date": "2011-07-01",
+      "value": 8.09,
+      "raw_values": {
+        "M2SL": 9338.4
+      }
+    },
+    {
+      "date": "2011-08-01",
+      "value": 9.63,
+      "raw_values": {
+        "M2SL": 9524.9
+      }
+    },
+    {
+      "date": "2011-09-01",
+      "value": 9.48,
+      "raw_values": {
+        "M2SL": 9545.1
+      }
+    },
+    {
+      "date": "2011-10-01",
+      "value": 9.23,
+      "raw_values": {
+        "M2SL": 9577.9
+      }
+    },
+    {
+      "date": "2011-11-01",
+      "value": 9.56,
+      "raw_values": {
+        "M2SL": 9629.5
+      }
+    },
+    {
+      "date": "2011-12-01",
+      "value": 9.68,
+      "raw_values": {
+        "M2SL": 9677.1
+      }
+    },
+    {
+      "date": "2012-01-01",
+      "value": 10.24,
+      "raw_values": {
+        "M2SL": 9750.3
+      }
+    },
+    {
+      "date": "2012-02-01",
+      "value": 10.03,
+      "raw_values": {
+        "M2SL": 9802.0
+      }
+    },
+    {
+      "date": "2012-03-01",
+      "value": 9.81,
+      "raw_values": {
+        "M2SL": 9846.0
+      }
+    },
+    {
+      "date": "2012-04-01",
+      "value": 9.63,
+      "raw_values": {
+        "M2SL": 9899.5
+      }
+    },
+    {
+      "date": "2012-05-01",
+      "value": 9.23,
+      "raw_values": {
+        "M2SL": 9942.8
+      }
+    },
+    {
+      "date": "2012-06-01",
+      "value": 9.11,
+      "raw_values": {
+        "M2SL": 10012.8
+      }
+    },
+    {
+      "date": "2012-07-01",
+      "value": 7.79,
+      "raw_values": {
+        "M2SL": 10065.5
+      }
+    },
+    {
+      "date": "2012-08-01",
+      "value": 6.42,
+      "raw_values": {
+        "M2SL": 10136.1
+      }
+    },
+    {
+      "date": "2012-09-01",
+      "value": 7.03,
+      "raw_values": {
+        "M2SL": 10216.3
+      }
+    },
+    {
+      "date": "2012-10-01",
+      "value": 7.36,
+      "raw_values": {
+        "M2SL": 10282.6
+      }
+    },
+    {
+      "date": "2012-11-01",
+      "value": 7.5,
+      "raw_values": {
+        "M2SL": 10351.6
+      }
+    },
+    {
+      "date": "2012-12-01",
+      "value": 8.24,
+      "raw_values": {
+        "M2SL": 10474.1
+      }
+    },
+    {
+      "date": "2013-01-01",
+      "value": 7.66,
+      "raw_values": {
+        "M2SL": 10497.4
+      }
+    },
+    {
+      "date": "2013-02-01",
+      "value": 7.29,
+      "raw_values": {
+        "M2SL": 10516.4
+      }
+    },
+    {
+      "date": "2013-03-01",
+      "value": 7.38,
+      "raw_values": {
+        "M2SL": 10572.6
+      }
+    },
+    {
+      "date": "2013-04-01",
+      "value": 7.08,
+      "raw_values": {
+        "M2SL": 10600.0
+      }
+    },
+    {
+      "date": "2013-05-01",
+      "value": 6.95,
+      "raw_values": {
+        "M2SL": 10634.2
+      }
+    },
+    {
+      "date": "2013-06-01",
+      "value": 6.78,
+      "raw_values": {
+        "M2SL": 10691.3
+      }
+    },
+    {
+      "date": "2013-07-01",
+      "value": 6.61,
+      "raw_values": {
+        "M2SL": 10730.5
+      }
+    },
+    {
+      "date": "2013-08-01",
+      "value": 6.44,
+      "raw_values": {
+        "M2SL": 10788.5
+      }
+    },
+    {
+      "date": "2013-09-01",
+      "value": 6.19,
+      "raw_values": {
+        "M2SL": 10848.9
+      }
+    },
+    {
+      "date": "2013-10-01",
+      "value": 6.72,
+      "raw_values": {
+        "M2SL": 10973.2
+      }
+    },
+    {
+      "date": "2013-11-01",
+      "value": 6.09,
+      "raw_values": {
+        "M2SL": 10981.9
+      }
+    },
+    {
+      "date": "2013-12-01",
+      "value": 5.47,
+      "raw_values": {
+        "M2SL": 11046.9
+      }
+    },
+    {
+      "date": "2014-01-01",
+      "value": 5.9,
+      "raw_values": {
+        "M2SL": 11116.6
+      }
+    },
+    {
+      "date": "2014-02-01",
+      "value": 6.33,
+      "raw_values": {
+        "M2SL": 11182.3
+      }
+    },
+    {
+      "date": "2014-03-01",
+      "value": 6.11,
+      "raw_values": {
+        "M2SL": 11218.2
+      }
+    },
+    {
+      "date": "2014-04-01",
+      "value": 6.26,
+      "raw_values": {
+        "M2SL": 11263.1
+      }
+    },
+    {
+      "date": "2014-05-01",
+      "value": 6.52,
+      "raw_values": {
+        "M2SL": 11327.6
+      }
+    },
+    {
+      "date": "2014-06-01",
+      "value": 6.47,
+      "raw_values": {
+        "M2SL": 11382.8
+      }
+    },
+    {
+      "date": "2014-07-01",
+      "value": 6.59,
+      "raw_values": {
+        "M2SL": 11437.5
+      }
+    },
+    {
+      "date": "2014-08-01",
+      "value": 6.24,
+      "raw_values": {
+        "M2SL": 11461.6
+      }
+    },
+    {
+      "date": "2014-09-01",
+      "value": 6.03,
+      "raw_values": {
+        "M2SL": 11502.8
+      }
+    },
+    {
+      "date": "2014-10-01",
+      "value": 5.5,
+      "raw_values": {
+        "M2SL": 11576.6
+      }
+    },
+    {
+      "date": "2014-11-01",
+      "value": 5.79,
+      "raw_values": {
+        "M2SL": 11617.3
+      }
+    },
+    {
+      "date": "2014-12-01",
+      "value": 5.92,
+      "raw_values": {
+        "M2SL": 11701.0
+      }
+    },
+    {
+      "date": "2015-01-01",
+      "value": 6.04,
+      "raw_values": {
+        "M2SL": 11787.8
+      }
+    },
+    {
+      "date": "2015-02-01",
+      "value": 6.46,
+      "raw_values": {
+        "M2SL": 11904.7
+      }
+    },
+    {
+      "date": "2015-03-01",
+      "value": 6.1,
+      "raw_values": {
+        "M2SL": 11902.8
+      }
+    },
+    {
+      "date": "2015-04-01",
+      "value": 5.98,
+      "raw_values": {
+        "M2SL": 11936.7
+      }
+    },
+    {
+      "date": "2015-05-01",
+      "value": 5.62,
+      "raw_values": {
+        "M2SL": 11964.2
+      }
+    },
+    {
+      "date": "2015-06-01",
+      "value": 5.46,
+      "raw_values": {
+        "M2SL": 12004.6
+      }
+    },
+    {
+      "date": "2015-07-01",
+      "value": 5.34,
+      "raw_values": {
+        "M2SL": 12048.3
+      }
+    },
+    {
+      "date": "2015-08-01",
+      "value": 5.51,
+      "raw_values": {
+        "M2SL": 12093.1
+      }
+    },
+    {
+      "date": "2015-09-01",
+      "value": 5.66,
+      "raw_values": {
+        "M2SL": 12154.3
+      }
+    },
+    {
+      "date": "2015-10-01",
+      "value": 5.43,
+      "raw_values": {
+        "M2SL": 12205.6
+      }
+    },
+    {
+      "date": "2015-11-01",
+      "value": 5.85,
+      "raw_values": {
+        "M2SL": 12296.9
+      }
+    },
+    {
+      "date": "2015-12-01",
+      "value": 5.7,
+      "raw_values": {
+        "M2SL": 12368.2
+      }
+    },
+    {
+      "date": "2016-01-01",
+      "value": 6.09,
+      "raw_values": {
+        "M2SL": 12505.5
+      }
+    },
+    {
+      "date": "2016-02-01",
+      "value": 5.65,
+      "raw_values": {
+        "M2SL": 12577.7
+      }
+    },
+    {
+      "date": "2016-03-01",
+      "value": 6.1,
+      "raw_values": {
+        "M2SL": 12628.6
+      }
+    },
+    {
+      "date": "2016-04-01",
+      "value": 6.46,
+      "raw_values": {
+        "M2SL": 12707.6
+      }
+    },
+    {
+      "date": "2016-05-01",
+      "value": 6.77,
+      "raw_values": {
+        "M2SL": 12774.6
+      }
+    },
+    {
+      "date": "2016-06-01",
+      "value": 6.92,
+      "raw_values": {
+        "M2SL": 12835.1
+      }
+    },
+    {
+      "date": "2016-07-01",
+      "value": 6.98,
+      "raw_values": {
+        "M2SL": 12889.3
+      }
+    },
+    {
+      "date": "2016-08-01",
+      "value": 7.28,
+      "raw_values": {
+        "M2SL": 12973.6
+      }
+    },
+    {
+      "date": "2016-09-01",
+      "value": 7.24,
+      "raw_values": {
+        "M2SL": 13033.8
+      }
+    },
+    {
+      "date": "2016-10-01",
+      "value": 7.39,
+      "raw_values": {
+        "M2SL": 13107.1
+      }
+    },
+    {
+      "date": "2016-11-01",
+      "value": 7.19,
+      "raw_values": {
+        "M2SL": 13180.6
+      }
+    },
+    {
+      "date": "2016-12-01",
+      "value": 6.93,
+      "raw_values": {
+        "M2SL": 13225.8
+      }
+    },
+    {
+      "date": "2017-01-01",
+      "value": 6.36,
+      "raw_values": {
+        "M2SL": 13300.3
+      }
+    },
+    {
+      "date": "2017-02-01",
+      "value": 6.28,
+      "raw_values": {
+        "M2SL": 13367.0
+      }
+    },
+    {
+      "date": "2017-03-01",
+      "value": 6.33,
+      "raw_values": {
+        "M2SL": 13428.4
+      }
+    },
+    {
+      "date": "2017-04-01",
+      "value": 6.11,
+      "raw_values": {
+        "M2SL": 13484.4
+      }
+    },
+    {
+      "date": "2017-05-01",
+      "value": 5.96,
+      "raw_values": {
+        "M2SL": 13536.4
+      }
+    },
+    {
+      "date": "2017-06-01",
+      "value": 5.63,
+      "raw_values": {
+        "M2SL": 13558.1
+      }
+    },
+    {
+      "date": "2017-07-01",
+      "value": 5.63,
+      "raw_values": {
+        "M2SL": 13615.1
+      }
+    },
+    {
+      "date": "2017-08-01",
+      "value": 5.4,
+      "raw_values": {
+        "M2SL": 13674.3
+      }
+    },
+    {
+      "date": "2017-09-01",
+      "value": 5.29,
+      "raw_values": {
+        "M2SL": 13722.7
+      }
+    },
+    {
+      "date": "2017-10-01",
+      "value": 5.15,
+      "raw_values": {
+        "M2SL": 13782.0
+      }
+    },
+    {
+      "date": "2017-11-01",
+      "value": 4.81,
+      "raw_values": {
+        "M2SL": 13814.6
+      }
+    },
+    {
+      "date": "2017-12-01",
+      "value": 4.9,
+      "raw_values": {
+        "M2SL": 13873.5
+      }
+    },
+    {
+      "date": "2018-01-01",
+      "value": 4.38,
+      "raw_values": {
+        "M2SL": 13882.9
+      }
+    },
+    {
+      "date": "2018-02-01",
+      "value": 4.13,
+      "raw_values": {
+        "M2SL": 13919.0
+      }
+    },
+    {
+      "date": "2018-03-01",
+      "value": 4.08,
+      "raw_values": {
+        "M2SL": 13975.8
+      }
+    },
+    {
+      "date": "2018-04-01",
+      "value": 3.78,
+      "raw_values": {
+        "M2SL": 13993.7
+      }
+    },
+    {
+      "date": "2018-05-01",
+      "value": 3.79,
+      "raw_values": {
+        "M2SL": 14049.4
+      }
+    },
+    {
+      "date": "2018-06-01",
+      "value": 4.07,
+      "raw_values": {
+        "M2SL": 14109.7
+      }
+    },
+    {
+      "date": "2018-07-01",
+      "value": 3.88,
+      "raw_values": {
+        "M2SL": 14143.9
+      }
+    },
+    {
+      "date": "2018-08-01",
+      "value": 3.8,
+      "raw_values": {
+        "M2SL": 14193.6
+      }
+    },
+    {
+      "date": "2018-09-01",
+      "value": 3.69,
+      "raw_values": {
+        "M2SL": 14229.1
+      }
+    },
+    {
+      "date": "2018-10-01",
+      "value": 3.33,
+      "raw_values": {
+        "M2SL": 14241.1
+      }
+    },
+    {
+      "date": "2018-11-01",
+      "value": 3.23,
+      "raw_values": {
+        "M2SL": 14260.5
+      }
+    },
+    {
+      "date": "2018-12-01",
+      "value": 3.67,
+      "raw_values": {
+        "M2SL": 14382.3
+      }
+    },
+    {
+      "date": "2019-01-01",
+      "value": 4.05,
+      "raw_values": {
+        "M2SL": 14445.7
+      }
+    },
+    {
+      "date": "2019-02-01",
+      "value": 4.04,
+      "raw_values": {
+        "M2SL": 14480.8
+      }
+    },
+    {
+      "date": "2019-03-01",
+      "value": 3.94,
+      "raw_values": {
+        "M2SL": 14525.9
+      }
+    },
+    {
+      "date": "2019-04-01",
+      "value": 4.01,
+      "raw_values": {
+        "M2SL": 14554.2
+      }
+    },
+    {
+      "date": "2019-05-01",
+      "value": 4.29,
+      "raw_values": {
+        "M2SL": 14652.0
+      }
+    },
+    {
+      "date": "2019-06-01",
+      "value": 4.69,
+      "raw_values": {
+        "M2SL": 14771.0
+      }
+    },
+    {
+      "date": "2019-07-01",
+      "value": 5.01,
+      "raw_values": {
+        "M2SL": 14853.1
+      }
+    },
+    {
+      "date": "2019-08-01",
+      "value": 5.22,
+      "raw_values": {
+        "M2SL": 14934.3
+      }
+    },
+    {
+      "date": "2019-09-01",
+      "value": 5.64,
+      "raw_values": {
+        "M2SL": 15031.0
+      }
+    },
+    {
+      "date": "2019-10-01",
+      "value": 6.5,
+      "raw_values": {
+        "M2SL": 15166.9
+      }
+    },
+    {
+      "date": "2019-11-01",
+      "value": 7.12,
+      "raw_values": {
+        "M2SL": 15276.4
+      }
+    },
+    {
+      "date": "2019-12-01",
+      "value": 6.71,
+      "raw_values": {
+        "M2SL": 15347.6
+      }
+    },
+    {
+      "date": "2020-01-01",
+      "value": 6.72,
+      "raw_values": {
+        "M2SL": 15416.3
+      }
+    },
+    {
+      "date": "2020-02-01",
+      "value": 6.81,
+      "raw_values": {
+        "M2SL": 15466.6
+      }
+    },
+    {
+      "date": "2020-03-01",
+      "value": 10.1,
+      "raw_values": {
+        "M2SL": 15993.4
+      }
+    },
+    {
+      "date": "2020-04-01",
+      "value": 16.84,
+      "raw_values": {
+        "M2SL": 17005.4
+      }
+    },
+    {
+      "date": "2020-05-01",
+      "value": 21.85,
+      "raw_values": {
+        "M2SL": 17852.9
+      }
+    },
+    {
+      "date": "2020-06-01",
+      "value": 22.81,
+      "raw_values": {
+        "M2SL": 18140.6
+      }
+    },
+    {
+      "date": "2020-07-01",
+      "value": 23.19,
+      "raw_values": {
+        "M2SL": 18297.7
+      }
+    },
+    {
+      "date": "2020-08-01",
+      "value": 22.97,
+      "raw_values": {
+        "M2SL": 18364.1
+      }
+    },
+    {
+      "date": "2020-09-01",
+      "value": 23.72,
+      "raw_values": {
+        "M2SL": 18596.4
+      }
+    },
+    {
+      "date": "2020-10-01",
+      "value": 23.63,
+      "raw_values": {
+        "M2SL": 18751.1
+      }
+    },
+    {
+      "date": "2020-11-01",
+      "value": 24.24,
+      "raw_values": {
+        "M2SL": 18978.9
+      }
+    },
+    {
+      "date": "2020-12-01",
+      "value": 24.66,
+      "raw_values": {
+        "M2SL": 19133.0
+      }
+    },
+    {
+      "date": "2021-01-01",
+      "value": 25.58,
+      "raw_values": {
+        "M2SL": 19359.5
+      }
+    },
+    {
+      "date": "2021-02-01",
+      "value": 26.7,
+      "raw_values": {
+        "M2SL": 19596.5
+      }
+    },
+    {
+      "date": "2021-03-01",
+      "value": 23.95,
+      "raw_values": {
+        "M2SL": 19823.2
+      }
+    },
+    {
+      "date": "2021-04-01",
+      "value": 18.56,
+      "raw_values": {
+        "M2SL": 20161.5
+      }
+    },
+    {
+      "date": "2021-05-01",
+      "value": 14.44,
+      "raw_values": {
+        "M2SL": 20430.5
+      }
+    },
+    {
+      "date": "2021-06-01",
+      "value": 12.86,
+      "raw_values": {
+        "M2SL": 20472.9
+      }
+    },
+    {
+      "date": "2021-07-01",
+      "value": 12.74,
+      "raw_values": {
+        "M2SL": 20628.2
+      }
+    },
+    {
+      "date": "2021-08-01",
+      "value": 13.32,
+      "raw_values": {
+        "M2SL": 20811.1
+      }
+    },
+    {
+      "date": "2021-09-01",
+      "value": 12.81,
+      "raw_values": {
+        "M2SL": 20979.2
+      }
+    },
+    {
+      "date": "2021-10-01",
+      "value": 12.75,
+      "raw_values": {
+        "M2SL": 21142.1
+      }
+    },
+    {
+      "date": "2021-11-01",
+      "value": 12.32,
+      "raw_values": {
+        "M2SL": 21316.6
+      }
+    },
+    {
+      "date": "2021-12-01",
+      "value": 12.22,
+      "raw_values": {
+        "M2SL": 21471.0
+      }
+    },
+    {
+      "date": "2022-01-01",
+      "value": 11.51,
+      "raw_values": {
+        "M2SL": 21587.3
+      }
+    },
+    {
+      "date": "2022-02-01",
+      "value": 10.66,
+      "raw_values": {
+        "M2SL": 21684.9
+      }
+    },
+    {
+      "date": "2022-03-01",
+      "value": 9.58,
+      "raw_values": {
+        "M2SL": 21721.3
+      }
+    },
+    {
+      "date": "2022-04-01",
+      "value": 7.88,
+      "raw_values": {
+        "M2SL": 21750.0
+      }
+    },
+    {
+      "date": "2022-05-01",
+      "value": 6.17,
+      "raw_values": {
+        "M2SL": 21690.7
+      }
+    },
+    {
+      "date": "2022-06-01",
+      "value": 5.71,
+      "raw_values": {
+        "M2SL": 21642.9
+      }
+    },
+    {
+      "date": "2022-07-01",
+      "value": 4.91,
+      "raw_values": {
+        "M2SL": 21641.7
+      }
+    },
+    {
+      "date": "2022-08-01",
+      "value": 3.82,
+      "raw_values": {
+        "M2SL": 21606.8
+      }
+    },
+    {
+      "date": "2022-09-01",
+      "value": 2.58,
+      "raw_values": {
+        "M2SL": 21521.0
+      }
+    },
+    {
+      "date": "2022-10-01",
+      "value": 1.34,
+      "raw_values": {
+        "M2SL": 21424.4
+      }
+    },
+    {
+      "date": "2022-11-01",
+      "value": 0.19,
+      "raw_values": {
+        "M2SL": 21358.1
+      }
+    },
+    {
+      "date": "2022-12-01",
+      "value": -1.17,
+      "raw_values": {
+        "M2SL": 21219.0
+      }
+    },
+    {
+      "date": "2023-01-01",
+      "value": -1.77,
+      "raw_values": {
+        "M2SL": 21205.3
+      }
+    },
+    {
+      "date": "2023-02-01",
+      "value": -2.31,
+      "raw_values": {
+        "M2SL": 21184.5
+      }
+    },
+    {
+      "date": "2023-03-01",
+      "value": -3.89,
+      "raw_values": {
+        "M2SL": 20876.1
+      }
+    },
+    {
+      "date": "2023-04-01",
+      "value": -4.69,
+      "raw_values": {
+        "M2SL": 20729.8
+      }
+    },
+    {
+      "date": "2023-05-01",
+      "value": -4.1,
+      "raw_values": {
+        "M2SL": 20801.1
+      }
+    },
+    {
+      "date": "2023-06-01",
+      "value": -3.97,
+      "raw_values": {
+        "M2SL": 20782.6
+      }
+    },
+    {
+      "date": "2023-07-01",
+      "value": -4.02,
+      "raw_values": {
+        "M2SL": 20772.0
+      }
+    },
+    {
+      "date": "2023-08-01",
+      "value": -3.98,
+      "raw_values": {
+        "M2SL": 20746.9
+      }
+    },
+    {
+      "date": "2023-09-01",
+      "value": -3.72,
+      "raw_values": {
+        "M2SL": 20720.4
+      }
+    },
+    {
+      "date": "2023-10-01",
+      "value": -3.44,
+      "raw_values": {
+        "M2SL": 20687.3
+      }
+    },
+    {
+      "date": "2023-11-01",
+      "value": -3.1,
+      "raw_values": {
+        "M2SL": 20696.7
+      }
+    },
+    {
+      "date": "2023-12-01",
+      "value": -2.44,
+      "raw_values": {
+        "M2SL": 20701.3
+      }
+    },
+    {
+      "date": "2024-01-01",
+      "value": -2.04,
+      "raw_values": {
+        "M2SL": 20773.2
+      }
+    },
+    {
+      "date": "2024-02-01",
+      "value": -1.53,
+      "raw_values": {
+        "M2SL": 20861.2
+      }
+    },
+    {
+      "date": "2024-03-01",
+      "value": 0.12,
+      "raw_values": {
+        "M2SL": 20900.9
+      }
+    },
+    {
+      "date": "2024-04-01",
+      "value": 0.96,
+      "raw_values": {
+        "M2SL": 20929.0
+      }
+    },
+    {
+      "date": "2024-05-01",
+      "value": 0.91,
+      "raw_values": {
+        "M2SL": 20989.5
+      }
+    },
+    {
+      "date": "2024-06-01",
+      "value": 1.3,
+      "raw_values": {
+        "M2SL": 21053.0
+      }
+    },
+    {
+      "date": "2024-07-01",
+      "value": 1.5,
+      "raw_values": {
+        "M2SL": 21084.1
+      }
+    },
+    {
+      "date": "2024-08-01",
+      "value": 2.04,
+      "raw_values": {
+        "M2SL": 21171.0
+      }
+    },
+    {
+      "date": "2024-09-01",
+      "value": 2.59,
+      "raw_values": {
+        "M2SL": 21257.4
+      }
+    },
+    {
+      "date": "2024-10-01",
+      "value": 3.0,
+      "raw_values": {
+        "M2SL": 21308.1
+      }
+    },
+    {
+      "date": "2024-11-01",
+      "value": 3.44,
+      "raw_values": {
+        "M2SL": 21408.0
+      }
+    },
+    {
+      "date": "2024-12-01",
+      "value": 3.49,
+      "raw_values": {
+        "M2SL": 21424.5
+      }
+    },
+    {
+      "date": "2025-01-01",
+      "value": 3.46,
+      "raw_values": {
+        "M2SL": 21492.4
+      }
+    },
+    {
+      "date": "2025-02-01",
+      "value": 3.37,
+      "raw_values": {
+        "M2SL": 21564.6
+      }
+    },
+    {
+      "date": "2025-03-01",
+      "value": 3.52,
+      "raw_values": {
+        "M2SL": 21636.7
+      }
+    },
+    {
+      "date": "2025-04-01",
+      "value": 4.02,
+      "raw_values": {
+        "M2SL": 21770.6
+      }
+    },
+    {
+      "date": "2025-05-01",
+      "value": 3.99,
+      "raw_values": {
+        "M2SL": 21827.5
+      }
+    },
+    {
+      "date": "2025-06-01",
+      "value": 4.23,
+      "raw_values": {
+        "M2SL": 21942.5
+      }
+    },
+    {
+      "date": "2025-07-01",
+      "value": 4.48,
+      "raw_values": {
+        "M2SL": 22028.7
+      }
+    },
+    {
+      "date": "2025-08-01",
+      "value": 4.43,
+      "raw_values": {
+        "M2SL": 22108.3
+      }
+    },
+    {
+      "date": "2025-09-01",
+      "value": 4.49,
+      "raw_values": {
+        "M2SL": 22212.4
+      }
+    },
+    {
+      "date": "2025-10-01",
+      "value": 4.65,
+      "raw_values": {
+        "M2SL": 22298.0
+      }
+    },
+    {
+      "date": "2025-11-01",
+      "value": 4.27,
+      "raw_values": {
+        "M2SL": 22322.4
+      }
+    }
+  ]
+}

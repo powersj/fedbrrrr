@@ -1,0 +1,605 @@
+{
+  "id": "debt_service_ratio",
+  "name": "Debt Service Ratio",
+  "category": "household",
+  "description": "Total household debt payments (mortgage, consumer debt) as percentage of disposable personal income. Higher values indicate more household financial stress.",
+  "unit": "%",
+  "thresholds": {
+    "green_max": 10,
+    "green_min": null,
+    "yellow_max": 12,
+    "yellow_min": null,
+    "red_max": null,
+    "red_min": 12,
+    "invert": false
+  },
+  "current_value": 11.26,
+  "current_date": "2025-07-01",
+  "status": "yellow",
+  "trend": "improving",
+  "change_value": 0.13,
+  "change_percent": 1.19,
+  "data": [
+    {
+      "date": "2005-01-01",
+      "value": 14.8,
+      "raw_values": {
+        "TDSP": 14.8
+      }
+    },
+    {
+      "date": "2005-04-01",
+      "value": 14.83,
+      "raw_values": {
+        "TDSP": 14.83
+      }
+    },
+    {
+      "date": "2005-07-01",
+      "value": 15.14,
+      "raw_values": {
+        "TDSP": 15.14
+      }
+    },
+    {
+      "date": "2005-10-01",
+      "value": 15.03,
+      "raw_values": {
+        "TDSP": 15.03
+      }
+    },
+    {
+      "date": "2006-01-01",
+      "value": 14.99,
+      "raw_values": {
+        "TDSP": 14.99
+      }
+    },
+    {
+      "date": "2006-04-01",
+      "value": 15.04,
+      "raw_values": {
+        "TDSP": 15.04
+      }
+    },
+    {
+      "date": "2006-07-01",
+      "value": 15.37,
+      "raw_values": {
+        "TDSP": 15.37
+      }
+    },
+    {
+      "date": "2006-10-01",
+      "value": 15.51,
+      "raw_values": {
+        "TDSP": 15.51
+      }
+    },
+    {
+      "date": "2007-01-01",
+      "value": 15.53,
+      "raw_values": {
+        "TDSP": 15.53
+      }
+    },
+    {
+      "date": "2007-04-01",
+      "value": 15.63,
+      "raw_values": {
+        "TDSP": 15.63
+      }
+    },
+    {
+      "date": "2007-07-01",
+      "value": 15.71,
+      "raw_values": {
+        "TDSP": 15.71
+      }
+    },
+    {
+      "date": "2007-10-01",
+      "value": 15.85,
+      "raw_values": {
+        "TDSP": 15.85
+      }
+    },
+    {
+      "date": "2008-01-01",
+      "value": 15.78,
+      "raw_values": {
+        "TDSP": 15.78
+      }
+    },
+    {
+      "date": "2008-04-01",
+      "value": 15.33,
+      "raw_values": {
+        "TDSP": 15.33
+      }
+    },
+    {
+      "date": "2008-07-01",
+      "value": 15.55,
+      "raw_values": {
+        "TDSP": 15.55
+      }
+    },
+    {
+      "date": "2008-10-01",
+      "value": 15.72,
+      "raw_values": {
+        "TDSP": 15.72
+      }
+    },
+    {
+      "date": "2009-01-01",
+      "value": 15.6,
+      "raw_values": {
+        "TDSP": 15.6
+      }
+    },
+    {
+      "date": "2009-04-01",
+      "value": 15.25,
+      "raw_values": {
+        "TDSP": 15.25
+      }
+    },
+    {
+      "date": "2009-07-01",
+      "value": 15.09,
+      "raw_values": {
+        "TDSP": 15.09
+      }
+    },
+    {
+      "date": "2009-10-01",
+      "value": 14.9,
+      "raw_values": {
+        "TDSP": 14.9
+      }
+    },
+    {
+      "date": "2010-01-01",
+      "value": 14.51,
+      "raw_values": {
+        "TDSP": 14.51
+      }
+    },
+    {
+      "date": "2010-04-01",
+      "value": 14.07,
+      "raw_values": {
+        "TDSP": 14.07
+      }
+    },
+    {
+      "date": "2010-07-01",
+      "value": 13.92,
+      "raw_values": {
+        "TDSP": 13.92
+      }
+    },
+    {
+      "date": "2010-10-01",
+      "value": 13.58,
+      "raw_values": {
+        "TDSP": 13.58
+      }
+    },
+    {
+      "date": "2011-01-01",
+      "value": 13.31,
+      "raw_values": {
+        "TDSP": 13.31
+      }
+    },
+    {
+      "date": "2011-04-01",
+      "value": 13.06,
+      "raw_values": {
+        "TDSP": 13.06
+      }
+    },
+    {
+      "date": "2011-07-01",
+      "value": 12.94,
+      "raw_values": {
+        "TDSP": 12.94
+      }
+    },
+    {
+      "date": "2011-10-01",
+      "value": 12.75,
+      "raw_values": {
+        "TDSP": 12.75
+      }
+    },
+    {
+      "date": "2012-01-01",
+      "value": 12.24,
+      "raw_values": {
+        "TDSP": 12.24
+      }
+    },
+    {
+      "date": "2012-04-01",
+      "value": 12.03,
+      "raw_values": {
+        "TDSP": 12.03
+      }
+    },
+    {
+      "date": "2012-07-01",
+      "value": 12.08,
+      "raw_values": {
+        "TDSP": 12.08
+      }
+    },
+    {
+      "date": "2012-10-01",
+      "value": 11.75,
+      "raw_values": {
+        "TDSP": 11.75
+      }
+    },
+    {
+      "date": "2013-01-01",
+      "value": 12.01,
+      "raw_values": {
+        "TDSP": 12.01
+      }
+    },
+    {
+      "date": "2013-04-01",
+      "value": 11.79,
+      "raw_values": {
+        "TDSP": 11.79
+      }
+    },
+    {
+      "date": "2013-07-01",
+      "value": 11.84,
+      "raw_values": {
+        "TDSP": 11.84
+      }
+    },
+    {
+      "date": "2013-10-01",
+      "value": 11.99,
+      "raw_values": {
+        "TDSP": 11.99
+      }
+    },
+    {
+      "date": "2014-01-01",
+      "value": 11.88,
+      "raw_values": {
+        "TDSP": 11.88
+      }
+    },
+    {
+      "date": "2014-04-01",
+      "value": 11.62,
+      "raw_values": {
+        "TDSP": 11.62
+      }
+    },
+    {
+      "date": "2014-07-01",
+      "value": 11.65,
+      "raw_values": {
+        "TDSP": 11.65
+      }
+    },
+    {
+      "date": "2014-10-01",
+      "value": 11.63,
+      "raw_values": {
+        "TDSP": 11.63
+      }
+    },
+    {
+      "date": "2015-01-01",
+      "value": 11.56,
+      "raw_values": {
+        "TDSP": 11.56
+      }
+    },
+    {
+      "date": "2015-04-01",
+      "value": 11.49,
+      "raw_values": {
+        "TDSP": 11.49
+      }
+    },
+    {
+      "date": "2015-07-01",
+      "value": 11.61,
+      "raw_values": {
+        "TDSP": 11.61
+      }
+    },
+    {
+      "date": "2015-10-01",
+      "value": 11.74,
+      "raw_values": {
+        "TDSP": 11.74
+      }
+    },
+    {
+      "date": "2016-01-01",
+      "value": 11.76,
+      "raw_values": {
+        "TDSP": 11.76
+      }
+    },
+    {
+      "date": "2016-04-01",
+      "value": 11.77,
+      "raw_values": {
+        "TDSP": 11.77
+      }
+    },
+    {
+      "date": "2016-07-01",
+      "value": 11.77,
+      "raw_values": {
+        "TDSP": 11.77
+      }
+    },
+    {
+      "date": "2016-10-01",
+      "value": 11.87,
+      "raw_values": {
+        "TDSP": 11.87
+      }
+    },
+    {
+      "date": "2017-01-01",
+      "value": 11.72,
+      "raw_values": {
+        "TDSP": 11.72
+      }
+    },
+    {
+      "date": "2017-04-01",
+      "value": 11.76,
+      "raw_values": {
+        "TDSP": 11.76
+      }
+    },
+    {
+      "date": "2017-07-01",
+      "value": 11.82,
+      "raw_values": {
+        "TDSP": 11.82
+      }
+    },
+    {
+      "date": "2017-10-01",
+      "value": 11.82,
+      "raw_values": {
+        "TDSP": 11.82
+      }
+    },
+    {
+      "date": "2018-01-01",
+      "value": 11.64,
+      "raw_values": {
+        "TDSP": 11.64
+      }
+    },
+    {
+      "date": "2018-04-01",
+      "value": 11.6,
+      "raw_values": {
+        "TDSP": 11.6
+      }
+    },
+    {
+      "date": "2018-07-01",
+      "value": 11.62,
+      "raw_values": {
+        "TDSP": 11.62
+      }
+    },
+    {
+      "date": "2018-10-01",
+      "value": 11.67,
+      "raw_values": {
+        "TDSP": 11.67
+      }
+    },
+    {
+      "date": "2019-01-01",
+      "value": 11.5,
+      "raw_values": {
+        "TDSP": 11.5
+      }
+    },
+    {
+      "date": "2019-04-01",
+      "value": 11.63,
+      "raw_values": {
+        "TDSP": 11.63
+      }
+    },
+    {
+      "date": "2019-07-01",
+      "value": 11.65,
+      "raw_values": {
+        "TDSP": 11.65
+      }
+    },
+    {
+      "date": "2019-10-01",
+      "value": 11.73,
+      "raw_values": {
+        "TDSP": 11.73
+      }
+    },
+    {
+      "date": "2020-01-01",
+      "value": 11.59,
+      "raw_values": {
+        "TDSP": 11.59
+      }
+    },
+    {
+      "date": "2020-04-01",
+      "value": 9.74,
+      "raw_values": {
+        "TDSP": 9.74
+      }
+    },
+    {
+      "date": "2020-07-01",
+      "value": 10.06,
+      "raw_values": {
+        "TDSP": 10.06
+      }
+    },
+    {
+      "date": "2020-10-01",
+      "value": 10.39,
+      "raw_values": {
+        "TDSP": 10.39
+      }
+    },
+    {
+      "date": "2021-01-01",
+      "value": 9.05,
+      "raw_values": {
+        "TDSP": 9.05
+      }
+    },
+    {
+      "date": "2021-04-01",
+      "value": 9.84,
+      "raw_values": {
+        "TDSP": 9.84
+      }
+    },
+    {
+      "date": "2021-07-01",
+      "value": 10.01,
+      "raw_values": {
+        "TDSP": 10.01
+      }
+    },
+    {
+      "date": "2021-10-01",
+      "value": 10.23,
+      "raw_values": {
+        "TDSP": 10.23
+      }
+    },
+    {
+      "date": "2022-01-01",
+      "value": 10.47,
+      "raw_values": {
+        "TDSP": 10.47
+      }
+    },
+    {
+      "date": "2022-04-01",
+      "value": 10.68,
+      "raw_values": {
+        "TDSP": 10.68
+      }
+    },
+    {
+      "date": "2022-07-01",
+      "value": 10.57,
+      "raw_values": {
+        "TDSP": 10.57
+      }
+    },
+    {
+      "date": "2022-10-01",
+      "value": 10.74,
+      "raw_values": {
+        "TDSP": 10.74
+      }
+    },
+    {
+      "date": "2023-01-01",
+      "value": 10.56,
+      "raw_values": {
+        "TDSP": 10.56
+      }
+    },
+    {
+      "date": "2023-04-01",
+      "value": 10.58,
+      "raw_values": {
+        "TDSP": 10.58
+      }
+    },
+    {
+      "date": "2023-07-01",
+      "value": 10.75,
+      "raw_values": {
+        "TDSP": 10.75
+      }
+    },
+    {
+      "date": "2023-10-01",
+      "value": 11.1,
+      "raw_values": {
+        "TDSP": 11.1
+      }
+    },
+    {
+      "date": "2024-01-01",
+      "value": 11.06,
+      "raw_values": {
+        "TDSP": 11.06
+      }
+    },
+    {
+      "date": "2024-04-01",
+      "value": 11.02,
+      "raw_values": {
+        "TDSP": 11.02
+      }
+    },
+    {
+      "date": "2024-07-01",
+      "value": 11.14,
+      "raw_values": {
+        "TDSP": 11.14
+      }
+    },
+    {
+      "date": "2024-10-01",
+      "value": 11.12,
+      "raw_values": {
+        "TDSP": 11.12
+      }
+    },
+    {
+      "date": "2025-01-01",
+      "value": 11.11,
+      "raw_values": {
+        "TDSP": 11.11
+      }
+    },
+    {
+      "date": "2025-04-01",
+      "value": 11.12,
+      "raw_values": {
+        "TDSP": 11.12
+      }
+    },
+    {
+      "date": "2025-07-01",
+      "value": 11.26,
+      "raw_values": {
+        "TDSP": 11.26
+      }
+    }
+  ]
+}

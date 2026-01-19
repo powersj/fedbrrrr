@@ -1,0 +1,997 @@
+{
+  "id": "credit_card_delinquency",
+  "name": "Credit Card Delinquency",
+  "category": "household",
+  "description": "Percentage of credit card balances that are 90+ days past due. Rising delinquencies signal household financial stress and potential consumer spending slowdown.",
+  "unit": "%",
+  "thresholds": {
+    "green_max": 2.5,
+    "green_min": null,
+    "yellow_max": 4.0,
+    "yellow_min": null,
+    "red_max": null,
+    "red_min": 4.0,
+    "invert": false
+  },
+  "current_value": 2.98,
+  "current_date": "2025-07-01",
+  "status": "yellow",
+  "trend": "deteriorating",
+  "change_value": -0.06,
+  "change_percent": -1.97,
+  "data": [
+    {
+      "date": "1991-01-01",
+      "value": 5.26,
+      "raw_values": {
+        "DRCCLACBS": 5.26
+      }
+    },
+    {
+      "date": "1991-04-01",
+      "value": 5.48,
+      "raw_values": {
+        "DRCCLACBS": 5.48
+      }
+    },
+    {
+      "date": "1991-07-01",
+      "value": 5.35,
+      "raw_values": {
+        "DRCCLACBS": 5.35
+      }
+    },
+    {
+      "date": "1991-10-01",
+      "value": 5.32,
+      "raw_values": {
+        "DRCCLACBS": 5.32
+      }
+    },
+    {
+      "date": "1992-01-01",
+      "value": 5.27,
+      "raw_values": {
+        "DRCCLACBS": 5.27
+      }
+    },
+    {
+      "date": "1992-04-01",
+      "value": 5.1,
+      "raw_values": {
+        "DRCCLACBS": 5.1
+      }
+    },
+    {
+      "date": "1992-07-01",
+      "value": 4.98,
+      "raw_values": {
+        "DRCCLACBS": 4.98
+      }
+    },
+    {
+      "date": "1992-10-01",
+      "value": 4.69,
+      "raw_values": {
+        "DRCCLACBS": 4.69
+      }
+    },
+    {
+      "date": "1993-01-01",
+      "value": 4.6,
+      "raw_values": {
+        "DRCCLACBS": 4.6
+      }
+    },
+    {
+      "date": "1993-04-01",
+      "value": 4.46,
+      "raw_values": {
+        "DRCCLACBS": 4.46
+      }
+    },
+    {
+      "date": "1993-07-01",
+      "value": 4.08,
+      "raw_values": {
+        "DRCCLACBS": 4.08
+      }
+    },
+    {
+      "date": "1993-10-01",
+      "value": 3.91,
+      "raw_values": {
+        "DRCCLACBS": 3.91
+      }
+    },
+    {
+      "date": "1994-01-01",
+      "value": 3.6,
+      "raw_values": {
+        "DRCCLACBS": 3.6
+      }
+    },
+    {
+      "date": "1994-04-01",
+      "value": 3.29,
+      "raw_values": {
+        "DRCCLACBS": 3.29
+      }
+    },
+    {
+      "date": "1994-07-01",
+      "value": 3.25,
+      "raw_values": {
+        "DRCCLACBS": 3.25
+      }
+    },
+    {
+      "date": "1994-10-01",
+      "value": 3.29,
+      "raw_values": {
+        "DRCCLACBS": 3.29
+      }
+    },
+    {
+      "date": "1995-01-01",
+      "value": 3.48,
+      "raw_values": {
+        "DRCCLACBS": 3.48
+      }
+    },
+    {
+      "date": "1995-04-01",
+      "value": 3.7,
+      "raw_values": {
+        "DRCCLACBS": 3.7
+      }
+    },
+    {
+      "date": "1995-07-01",
+      "value": 3.85,
+      "raw_values": {
+        "DRCCLACBS": 3.85
+      }
+    },
+    {
+      "date": "1995-10-01",
+      "value": 3.95,
+      "raw_values": {
+        "DRCCLACBS": 3.95
+      }
+    },
+    {
+      "date": "1996-01-01",
+      "value": 4.04,
+      "raw_values": {
+        "DRCCLACBS": 4.04
+      }
+    },
+    {
+      "date": "1996-04-01",
+      "value": 4.27,
+      "raw_values": {
+        "DRCCLACBS": 4.27
+      }
+    },
+    {
+      "date": "1996-07-01",
+      "value": 4.46,
+      "raw_values": {
+        "DRCCLACBS": 4.46
+      }
+    },
+    {
+      "date": "1996-10-01",
+      "value": 4.6,
+      "raw_values": {
+        "DRCCLACBS": 4.6
+      }
+    },
+    {
+      "date": "1997-01-01",
+      "value": 4.7,
+      "raw_values": {
+        "DRCCLACBS": 4.7
+      }
+    },
+    {
+      "date": "1997-04-01",
+      "value": 4.73,
+      "raw_values": {
+        "DRCCLACBS": 4.73
+      }
+    },
+    {
+      "date": "1997-07-01",
+      "value": 4.7,
+      "raw_values": {
+        "DRCCLACBS": 4.7
+      }
+    },
+    {
+      "date": "1997-10-01",
+      "value": 4.81,
+      "raw_values": {
+        "DRCCLACBS": 4.81
+      }
+    },
+    {
+      "date": "1998-01-01",
+      "value": 4.76,
+      "raw_values": {
+        "DRCCLACBS": 4.76
+      }
+    },
+    {
+      "date": "1998-04-01",
+      "value": 4.76,
+      "raw_values": {
+        "DRCCLACBS": 4.76
+      }
+    },
+    {
+      "date": "1998-07-01",
+      "value": 4.72,
+      "raw_values": {
+        "DRCCLACBS": 4.72
+      }
+    },
+    {
+      "date": "1998-10-01",
+      "value": 4.74,
+      "raw_values": {
+        "DRCCLACBS": 4.74
+      }
+    },
+    {
+      "date": "1999-01-01",
+      "value": 4.66,
+      "raw_values": {
+        "DRCCLACBS": 4.66
+      }
+    },
+    {
+      "date": "1999-04-01",
+      "value": 4.58,
+      "raw_values": {
+        "DRCCLACBS": 4.58
+      }
+    },
+    {
+      "date": "1999-07-01",
+      "value": 4.6,
+      "raw_values": {
+        "DRCCLACBS": 4.6
+      }
+    },
+    {
+      "date": "1999-10-01",
+      "value": 4.55,
+      "raw_values": {
+        "DRCCLACBS": 4.55
+      }
+    },
+    {
+      "date": "2000-01-01",
+      "value": 4.43,
+      "raw_values": {
+        "DRCCLACBS": 4.43
+      }
+    },
+    {
+      "date": "2000-04-01",
+      "value": 4.51,
+      "raw_values": {
+        "DRCCLACBS": 4.51
+      }
+    },
+    {
+      "date": "2000-07-01",
+      "value": 4.53,
+      "raw_values": {
+        "DRCCLACBS": 4.53
+      }
+    },
+    {
+      "date": "2000-10-01",
+      "value": 4.57,
+      "raw_values": {
+        "DRCCLACBS": 4.57
+      }
+    },
+    {
+      "date": "2001-01-01",
+      "value": 4.81,
+      "raw_values": {
+        "DRCCLACBS": 4.81
+      }
+    },
+    {
+      "date": "2001-04-01",
+      "value": 4.94,
+      "raw_values": {
+        "DRCCLACBS": 4.94
+      }
+    },
+    {
+      "date": "2001-07-01",
+      "value": 5.0,
+      "raw_values": {
+        "DRCCLACBS": 5.0
+      }
+    },
+    {
+      "date": "2001-10-01",
+      "value": 4.69,
+      "raw_values": {
+        "DRCCLACBS": 4.69
+      }
+    },
+    {
+      "date": "2002-01-01",
+      "value": 4.94,
+      "raw_values": {
+        "DRCCLACBS": 4.94
+      }
+    },
+    {
+      "date": "2002-04-01",
+      "value": 4.78,
+      "raw_values": {
+        "DRCCLACBS": 4.78
+      }
+    },
+    {
+      "date": "2002-07-01",
+      "value": 4.89,
+      "raw_values": {
+        "DRCCLACBS": 4.89
+      }
+    },
+    {
+      "date": "2002-10-01",
+      "value": 4.84,
+      "raw_values": {
+        "DRCCLACBS": 4.84
+      }
+    },
+    {
+      "date": "2003-01-01",
+      "value": 4.68,
+      "raw_values": {
+        "DRCCLACBS": 4.68
+      }
+    },
+    {
+      "date": "2003-04-01",
+      "value": 4.53,
+      "raw_values": {
+        "DRCCLACBS": 4.53
+      }
+    },
+    {
+      "date": "2003-07-01",
+      "value": 4.24,
+      "raw_values": {
+        "DRCCLACBS": 4.24
+      }
+    },
+    {
+      "date": "2003-10-01",
+      "value": 4.43,
+      "raw_values": {
+        "DRCCLACBS": 4.43
+      }
+    },
+    {
+      "date": "2004-01-01",
+      "value": 4.21,
+      "raw_values": {
+        "DRCCLACBS": 4.21
+      }
+    },
+    {
+      "date": "2004-04-01",
+      "value": 4.15,
+      "raw_values": {
+        "DRCCLACBS": 4.15
+      }
+    },
+    {
+      "date": "2004-07-01",
+      "value": 4.07,
+      "raw_values": {
+        "DRCCLACBS": 4.07
+      }
+    },
+    {
+      "date": "2004-10-01",
+      "value": 4.03,
+      "raw_values": {
+        "DRCCLACBS": 4.03
+      }
+    },
+    {
+      "date": "2005-01-01",
+      "value": 3.7,
+      "raw_values": {
+        "DRCCLACBS": 3.7
+      }
+    },
+    {
+      "date": "2005-04-01",
+      "value": 3.67,
+      "raw_values": {
+        "DRCCLACBS": 3.67
+      }
+    },
+    {
+      "date": "2005-07-01",
+      "value": 3.9,
+      "raw_values": {
+        "DRCCLACBS": 3.9
+      }
+    },
+    {
+      "date": "2005-10-01",
+      "value": 3.54,
+      "raw_values": {
+        "DRCCLACBS": 3.54
+      }
+    },
+    {
+      "date": "2006-01-01",
+      "value": 3.86,
+      "raw_values": {
+        "DRCCLACBS": 3.86
+      }
+    },
+    {
+      "date": "2006-04-01",
+      "value": 4.13,
+      "raw_values": {
+        "DRCCLACBS": 4.13
+      }
+    },
+    {
+      "date": "2006-07-01",
+      "value": 4.12,
+      "raw_values": {
+        "DRCCLACBS": 4.12
+      }
+    },
+    {
+      "date": "2006-10-01",
+      "value": 3.95,
+      "raw_values": {
+        "DRCCLACBS": 3.95
+      }
+    },
+    {
+      "date": "2007-01-01",
+      "value": 3.98,
+      "raw_values": {
+        "DRCCLACBS": 3.98
+      }
+    },
+    {
+      "date": "2007-04-01",
+      "value": 4.02,
+      "raw_values": {
+        "DRCCLACBS": 4.02
+      }
+    },
+    {
+      "date": "2007-07-01",
+      "value": 4.41,
+      "raw_values": {
+        "DRCCLACBS": 4.41
+      }
+    },
+    {
+      "date": "2007-10-01",
+      "value": 4.6,
+      "raw_values": {
+        "DRCCLACBS": 4.6
+      }
+    },
+    {
+      "date": "2008-01-01",
+      "value": 4.77,
+      "raw_values": {
+        "DRCCLACBS": 4.77
+      }
+    },
+    {
+      "date": "2008-04-01",
+      "value": 4.9,
+      "raw_values": {
+        "DRCCLACBS": 4.9
+      }
+    },
+    {
+      "date": "2008-07-01",
+      "value": 4.8,
+      "raw_values": {
+        "DRCCLACBS": 4.8
+      }
+    },
+    {
+      "date": "2008-10-01",
+      "value": 5.64,
+      "raw_values": {
+        "DRCCLACBS": 5.64
+      }
+    },
+    {
+      "date": "2009-01-01",
+      "value": 6.51,
+      "raw_values": {
+        "DRCCLACBS": 6.51
+      }
+    },
+    {
+      "date": "2009-04-01",
+      "value": 6.77,
+      "raw_values": {
+        "DRCCLACBS": 6.77
+      }
+    },
+    {
+      "date": "2009-07-01",
+      "value": 6.49,
+      "raw_values": {
+        "DRCCLACBS": 6.49
+      }
+    },
+    {
+      "date": "2009-10-01",
+      "value": 6.33,
+      "raw_values": {
+        "DRCCLACBS": 6.33
+      }
+    },
+    {
+      "date": "2010-01-01",
+      "value": 5.78,
+      "raw_values": {
+        "DRCCLACBS": 5.78
+      }
+    },
+    {
+      "date": "2010-04-01",
+      "value": 5.1,
+      "raw_values": {
+        "DRCCLACBS": 5.1
+      }
+    },
+    {
+      "date": "2010-07-01",
+      "value": 4.58,
+      "raw_values": {
+        "DRCCLACBS": 4.58
+      }
+    },
+    {
+      "date": "2010-10-01",
+      "value": 4.14,
+      "raw_values": {
+        "DRCCLACBS": 4.14
+      }
+    },
+    {
+      "date": "2011-01-01",
+      "value": 3.82,
+      "raw_values": {
+        "DRCCLACBS": 3.82
+      }
+    },
+    {
+      "date": "2011-04-01",
+      "value": 3.65,
+      "raw_values": {
+        "DRCCLACBS": 3.65
+      }
+    },
+    {
+      "date": "2011-07-01",
+      "value": 3.45,
+      "raw_values": {
+        "DRCCLACBS": 3.45
+      }
+    },
+    {
+      "date": "2011-10-01",
+      "value": 3.25,
+      "raw_values": {
+        "DRCCLACBS": 3.25
+      }
+    },
+    {
+      "date": "2012-01-01",
+      "value": 3.06,
+      "raw_values": {
+        "DRCCLACBS": 3.06
+      }
+    },
+    {
+      "date": "2012-04-01",
+      "value": 2.92,
+      "raw_values": {
+        "DRCCLACBS": 2.92
+      }
+    },
+    {
+      "date": "2012-07-01",
+      "value": 2.82,
+      "raw_values": {
+        "DRCCLACBS": 2.82
+      }
+    },
+    {
+      "date": "2012-10-01",
+      "value": 2.71,
+      "raw_values": {
+        "DRCCLACBS": 2.71
+      }
+    },
+    {
+      "date": "2013-01-01",
+      "value": 2.64,
+      "raw_values": {
+        "DRCCLACBS": 2.64
+      }
+    },
+    {
+      "date": "2013-04-01",
+      "value": 2.53,
+      "raw_values": {
+        "DRCCLACBS": 2.53
+      }
+    },
+    {
+      "date": "2013-07-01",
+      "value": 2.44,
+      "raw_values": {
+        "DRCCLACBS": 2.44
+      }
+    },
+    {
+      "date": "2013-10-01",
+      "value": 2.38,
+      "raw_values": {
+        "DRCCLACBS": 2.38
+      }
+    },
+    {
+      "date": "2014-01-01",
+      "value": 2.32,
+      "raw_values": {
+        "DRCCLACBS": 2.32
+      }
+    },
+    {
+      "date": "2014-04-01",
+      "value": 2.26,
+      "raw_values": {
+        "DRCCLACBS": 2.26
+      }
+    },
+    {
+      "date": "2014-07-01",
+      "value": 2.2,
+      "raw_values": {
+        "DRCCLACBS": 2.2
+      }
+    },
+    {
+      "date": "2014-10-01",
+      "value": 2.15,
+      "raw_values": {
+        "DRCCLACBS": 2.15
+      }
+    },
+    {
+      "date": "2015-01-01",
+      "value": 2.11,
+      "raw_values": {
+        "DRCCLACBS": 2.11
+      }
+    },
+    {
+      "date": "2015-04-01",
+      "value": 2.12,
+      "raw_values": {
+        "DRCCLACBS": 2.12
+      }
+    },
+    {
+      "date": "2015-07-01",
+      "value": 2.15,
+      "raw_values": {
+        "DRCCLACBS": 2.15
+      }
+    },
+    {
+      "date": "2015-10-01",
+      "value": 2.16,
+      "raw_values": {
+        "DRCCLACBS": 2.16
+      }
+    },
+    {
+      "date": "2016-01-01",
+      "value": 2.15,
+      "raw_values": {
+        "DRCCLACBS": 2.15
+      }
+    },
+    {
+      "date": "2016-04-01",
+      "value": 2.21,
+      "raw_values": {
+        "DRCCLACBS": 2.21
+      }
+    },
+    {
+      "date": "2016-07-01",
+      "value": 2.29,
+      "raw_values": {
+        "DRCCLACBS": 2.29
+      }
+    },
+    {
+      "date": "2016-10-01",
+      "value": 2.37,
+      "raw_values": {
+        "DRCCLACBS": 2.37
+      }
+    },
+    {
+      "date": "2017-01-01",
+      "value": 2.4,
+      "raw_values": {
+        "DRCCLACBS": 2.4
+      }
+    },
+    {
+      "date": "2017-04-01",
+      "value": 2.49,
+      "raw_values": {
+        "DRCCLACBS": 2.49
+      }
+    },
+    {
+      "date": "2017-07-01",
+      "value": 2.54,
+      "raw_values": {
+        "DRCCLACBS": 2.54
+      }
+    },
+    {
+      "date": "2017-10-01",
+      "value": 2.48,
+      "raw_values": {
+        "DRCCLACBS": 2.48
+      }
+    },
+    {
+      "date": "2018-01-01",
+      "value": 2.5,
+      "raw_values": {
+        "DRCCLACBS": 2.5
+      }
+    },
+    {
+      "date": "2018-04-01",
+      "value": 2.5,
+      "raw_values": {
+        "DRCCLACBS": 2.5
+      }
+    },
+    {
+      "date": "2018-07-01",
+      "value": 2.52,
+      "raw_values": {
+        "DRCCLACBS": 2.52
+      }
+    },
+    {
+      "date": "2018-10-01",
+      "value": 2.54,
+      "raw_values": {
+        "DRCCLACBS": 2.54
+      }
+    },
+    {
+      "date": "2019-01-01",
+      "value": 2.54,
+      "raw_values": {
+        "DRCCLACBS": 2.54
+      }
+    },
+    {
+      "date": "2019-04-01",
+      "value": 2.59,
+      "raw_values": {
+        "DRCCLACBS": 2.59
+      }
+    },
+    {
+      "date": "2019-07-01",
+      "value": 2.6,
+      "raw_values": {
+        "DRCCLACBS": 2.6
+      }
+    },
+    {
+      "date": "2019-10-01",
+      "value": 2.61,
+      "raw_values": {
+        "DRCCLACBS": 2.61
+      }
+    },
+    {
+      "date": "2020-01-01",
+      "value": 2.69,
+      "raw_values": {
+        "DRCCLACBS": 2.69
+      }
+    },
+    {
+      "date": "2020-04-01",
+      "value": 2.45,
+      "raw_values": {
+        "DRCCLACBS": 2.45
+      }
+    },
+    {
+      "date": "2020-07-01",
+      "value": 1.99,
+      "raw_values": {
+        "DRCCLACBS": 1.99
+      }
+    },
+    {
+      "date": "2020-10-01",
+      "value": 2.1,
+      "raw_values": {
+        "DRCCLACBS": 2.1
+      }
+    },
+    {
+      "date": "2021-01-01",
+      "value": 1.88,
+      "raw_values": {
+        "DRCCLACBS": 1.88
+      }
+    },
+    {
+      "date": "2021-04-01",
+      "value": 1.59,
+      "raw_values": {
+        "DRCCLACBS": 1.59
+      }
+    },
+    {
+      "date": "2021-07-01",
+      "value": 1.53,
+      "raw_values": {
+        "DRCCLACBS": 1.53
+      }
+    },
+    {
+      "date": "2021-10-01",
+      "value": 1.57,
+      "raw_values": {
+        "DRCCLACBS": 1.57
+      }
+    },
+    {
+      "date": "2022-01-01",
+      "value": 1.69,
+      "raw_values": {
+        "DRCCLACBS": 1.69
+      }
+    },
+    {
+      "date": "2022-04-01",
+      "value": 1.83,
+      "raw_values": {
+        "DRCCLACBS": 1.83
+      }
+    },
+    {
+      "date": "2022-07-01",
+      "value": 2.05,
+      "raw_values": {
+        "DRCCLACBS": 2.05
+      }
+    },
+    {
+      "date": "2022-10-01",
+      "value": 2.26,
+      "raw_values": {
+        "DRCCLACBS": 2.26
+      }
+    },
+    {
+      "date": "2023-01-01",
+      "value": 2.47,
+      "raw_values": {
+        "DRCCLACBS": 2.47
+      }
+    },
+    {
+      "date": "2023-04-01",
+      "value": 2.75,
+      "raw_values": {
+        "DRCCLACBS": 2.75
+      }
+    },
+    {
+      "date": "2023-07-01",
+      "value": 2.94,
+      "raw_values": {
+        "DRCCLACBS": 2.94
+      }
+    },
+    {
+      "date": "2023-10-01",
+      "value": 3.1,
+      "raw_values": {
+        "DRCCLACBS": 3.1
+      }
+    },
+    {
+      "date": "2024-01-01",
+      "value": 3.17,
+      "raw_values": {
+        "DRCCLACBS": 3.17
+      }
+    },
+    {
+      "date": "2024-04-01",
+      "value": 3.22,
+      "raw_values": {
+        "DRCCLACBS": 3.22
+      }
+    },
+    {
+      "date": "2024-07-01",
+      "value": 3.19,
+      "raw_values": {
+        "DRCCLACBS": 3.19
+      }
+    },
+    {
+      "date": "2024-10-01",
+      "value": 3.09,
+      "raw_values": {
+        "DRCCLACBS": 3.09
+      }
+    },
+    {
+      "date": "2025-01-01",
+      "value": 3.06,
+      "raw_values": {
+        "DRCCLACBS": 3.06
+      }
+    },
+    {
+      "date": "2025-04-01",
+      "value": 3.04,
+      "raw_values": {
+        "DRCCLACBS": 3.04
+      }
+    },
+    {
+      "date": "2025-07-01",
+      "value": 2.98,
+      "raw_values": {
+        "DRCCLACBS": 2.98
+      }
+    }
+  ]
+}
