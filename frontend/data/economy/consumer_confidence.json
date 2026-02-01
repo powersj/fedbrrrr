@@ -13,12 +13,12 @@
     "red_min": null,
     "invert": true
   },
-  "current_value": 51.0,
-  "current_date": "2025-11-01",
+  "current_value": 52.9,
+  "current_date": "2025-12-01",
   "status": "red",
   "trend": "deteriorating",
-  "change_value": -2.6,
-  "change_percent": -4.85,
+  "change_value": 1.9,
+  "change_percent": 3.73,
   "data": [
     {
       "date": "1952-11-01",
@@ -6157,6 +6157,13 @@
       "value": 51.0,
       "raw_values": {
         "UMCSENT": 51.0
+      }
+    },
+    {
+      "date": "2025-12-01",
+      "value": 52.9,
+      "raw_values": {
+        "UMCSENT": 52.9
       }
     }
   ]
