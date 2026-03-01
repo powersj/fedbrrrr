@@ -13,12 +13,12 @@
     "red_min": 4.0,
     "invert": false
   },
-  "current_value": 2.98,
-  "current_date": "2025-07-01",
+  "current_value": 2.94,
+  "current_date": "2025-10-01",
   "status": "yellow",
   "trend": "deteriorating",
-  "change_value": -0.06,
-  "change_percent": -1.97,
+  "change_value": -0.04,
+  "change_percent": -1.34,
   "data": [
     {
       "date": "1991-01-01",
@@ -991,6 +991,13 @@
       "value": 2.98,
       "raw_values": {
         "DRCCLACBS": 2.98
+      }
+    },
+    {
+      "date": "2025-10-01",
+      "value": 2.94,
+      "raw_values": {
+        "DRCCLACBS": 2.94
       }
     }
   ]

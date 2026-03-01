@@ -1,22 +1,18 @@
 {
-  "generated_at": "2026-02-01T07:00:42.785693",
+  "generated_at": "2026-03-01T06:57:19.042462",
   "economy": [
     {
       "id": "buffett_indicator",
       "name": "Buffett Indicator",
       "description": "Total stock market capitalization to GDP ratio. Named after Warren Buffett who called it 'the best single measure of where valuations stand at any given moment.'",
       "unit": "%",
-      "current_value": 214.96,
-      "current_date": "2025-07-01",
+      "current_value": 216.6,
+      "current_date": "2025-10-01",
       "status": "red",
       "trend": "deteriorating",
-      "change_value": 11.78,
-      "change_percent": 5.8,
+      "change_value": 1.65,
+      "change_percent": 0.77,
       "sparkline": [
-        {
-          "date": "2003-04-01",
-          "value": 82.58
-        },
         {
           "date": "2003-07-01",
           "value": 83.43
@@ -372,6 +368,10 @@
         {
           "date": "2025-07-01",
           "value": 214.96
+        },
+        {
+          "date": "2025-10-01",
+          "value": 216.6
         }
       ]
     },
@@ -380,17 +380,13 @@
       "name": "Consumer Confidence",
       "description": "University of Michigan Consumer Sentiment Index. Measures consumer attitudes about the economy. Higher values indicate optimism, lower values indicate pessimism.",
       "unit": "Index",
-      "current_value": 52.9,
-      "current_date": "2025-12-01",
+      "current_value": 56.4,
+      "current_date": "2026-01-01",
       "status": "red",
       "trend": "deteriorating",
-      "change_value": 1.9,
-      "change_percent": 3.73,
+      "change_value": 3.5,
+      "change_percent": 6.62,
       "sparkline": [
-        {
-          "date": "2018-07-01",
-          "value": 97.9
-        },
         {
           "date": "2018-08-01",
           "value": 96.2
@@ -746,6 +742,10 @@
         {
           "date": "2025-12-01",
           "value": 52.9
+        },
+        {
+          "date": "2026-01-01",
+          "value": 56.4
         }
       ]
     },
@@ -1876,93 +1876,13 @@
       "name": "Yield Curve (10Y-2Y)",
       "description": "Spread between 10-year and 2-year Treasury yields. Inversion (negative values) has preceded every US recession since 1970.",
       "unit": "%",
-      "current_value": 0.71,
-      "current_date": "2026-01-29",
+      "current_value": 0.6,
+      "current_date": "2026-02-26",
       "status": "green",
-      "trend": "improving",
-      "change_value": 0.01,
-      "change_percent": 1.43,
+      "trend": "deteriorating",
+      "change_value": 0.0,
+      "change_percent": 0.0,
       "sparkline": [
-        {
-          "date": "2025-09-26",
-          "value": 0.57
-        },
-        {
-          "date": "2025-09-29",
-          "value": 0.52
-        },
-        {
-          "date": "2025-09-30",
-          "value": 0.56
-        },
-        {
-          "date": "2025-10-01",
-          "value": 0.57
-        },
-        {
-          "date": "2025-10-02",
-          "value": 0.55
-        },
-        {
-          "date": "2025-10-03",
-          "value": 0.55
-        },
-        {
-          "date": "2025-10-06",
-          "value": 0.58
-        },
-        {
-          "date": "2025-10-07",
-          "value": 0.57
-        },
-        {
-          "date": "2025-10-08",
-          "value": 0.55
-        },
-        {
-          "date": "2025-10-09",
-          "value": 0.54
-        },
-        {
-          "date": "2025-10-10",
-          "value": 0.53
-        },
-        {
-          "date": "2025-10-13",
-          "value": 0.53
-        },
-        {
-          "date": "2025-10-14",
-          "value": 0.55
-        },
-        {
-          "date": "2025-10-15",
-          "value": 0.55
-        },
-        {
-          "date": "2025-10-16",
-          "value": 0.58
-        },
-        {
-          "date": "2025-10-17",
-          "value": 0.56
-        },
-        {
-          "date": "2025-10-20",
-          "value": 0.54
-        },
-        {
-          "date": "2025-10-21",
-          "value": 0.53
-        },
-        {
-          "date": "2025-10-22",
-          "value": 0.52
-        },
-        {
-          "date": "2025-10-23",
-          "value": 0.53
-        },
         {
           "date": "2025-10-24",
           "value": 0.54
@@ -2242,6 +2162,86 @@
         {
           "date": "2026-01-29",
           "value": 0.71
+        },
+        {
+          "date": "2026-01-30",
+          "value": 0.74
+        },
+        {
+          "date": "2026-02-02",
+          "value": 0.72
+        },
+        {
+          "date": "2026-02-03",
+          "value": 0.71
+        },
+        {
+          "date": "2026-02-04",
+          "value": 0.72
+        },
+        {
+          "date": "2026-02-05",
+          "value": 0.74
+        },
+        {
+          "date": "2026-02-06",
+          "value": 0.72
+        },
+        {
+          "date": "2026-02-09",
+          "value": 0.74
+        },
+        {
+          "date": "2026-02-10",
+          "value": 0.71
+        },
+        {
+          "date": "2026-02-11",
+          "value": 0.66
+        },
+        {
+          "date": "2026-02-12",
+          "value": 0.62
+        },
+        {
+          "date": "2026-02-13",
+          "value": 0.64
+        },
+        {
+          "date": "2026-02-16",
+          "value": 0.64
+        },
+        {
+          "date": "2026-02-17",
+          "value": 0.62
+        },
+        {
+          "date": "2026-02-18",
+          "value": 0.62
+        },
+        {
+          "date": "2026-02-19",
+          "value": 0.61
+        },
+        {
+          "date": "2026-02-20",
+          "value": 0.6
+        },
+        {
+          "date": "2026-02-23",
+          "value": 0.6
+        },
+        {
+          "date": "2026-02-24",
+          "value": 0.61
+        },
+        {
+          "date": "2026-02-25",
+          "value": 0.6
+        },
+        {
+          "date": "2026-02-26",
+          "value": 0.6
         }
       ]
     },
@@ -2250,93 +2250,13 @@
       "name": "Yield Curve (10Y-3M)",
       "description": "Spread between 10-year and 3-month Treasury yields. Often considered a more reliable recession indicator than the 10Y-2Y spread.",
       "unit": "%",
-      "current_value": 0.57,
-      "current_date": "2026-01-29",
+      "current_value": 0.34,
+      "current_date": "2026-02-26",
       "status": "yellow",
-      "trend": "improving",
-      "change_value": -0.01,
-      "change_percent": -1.72,
+      "trend": "deteriorating",
+      "change_value": -0.02,
+      "change_percent": -5.56,
       "sparkline": [
-        {
-          "date": "2025-09-26",
-          "value": 0.18
-        },
-        {
-          "date": "2025-09-29",
-          "value": 0.11
-        },
-        {
-          "date": "2025-09-30",
-          "value": 0.14
-        },
-        {
-          "date": "2025-10-01",
-          "value": 0.11
-        },
-        {
-          "date": "2025-10-02",
-          "value": 0.08
-        },
-        {
-          "date": "2025-10-03",
-          "value": 0.1
-        },
-        {
-          "date": "2025-10-06",
-          "value": 0.16
-        },
-        {
-          "date": "2025-10-07",
-          "value": 0.13
-        },
-        {
-          "date": "2025-10-08",
-          "value": 0.12
-        },
-        {
-          "date": "2025-10-09",
-          "value": 0.11
-        },
-        {
-          "date": "2025-10-10",
-          "value": 0.03
-        },
-        {
-          "date": "2025-10-13",
-          "value": 0.03
-        },
-        {
-          "date": "2025-10-14",
-          "value": 0.01
-        },
-        {
-          "date": "2025-10-15",
-          "value": 0.02
-        },
-        {
-          "date": "2025-10-16",
-          "value": -0.03
-        },
-        {
-          "date": "2025-10-17",
-          "value": 0.02
-        },
-        {
-          "date": "2025-10-20",
-          "value": 0.03
-        },
-        {
-          "date": "2025-10-21",
-          "value": 0.02
-        },
-        {
-          "date": "2025-10-22",
-          "value": 0.01
-        },
-        {
-          "date": "2025-10-23",
-          "value": 0.06
-        },
         {
           "date": "2025-10-24",
           "value": 0.09
@@ -2616,6 +2536,86 @@
         {
           "date": "2026-01-29",
           "value": 0.57
+        },
+        {
+          "date": "2026-01-30",
+          "value": 0.59
+        },
+        {
+          "date": "2026-02-02",
+          "value": 0.6
+        },
+        {
+          "date": "2026-02-03",
+          "value": 0.59
+        },
+        {
+          "date": "2026-02-04",
+          "value": 0.6
+        },
+        {
+          "date": "2026-02-05",
+          "value": 0.54
+        },
+        {
+          "date": "2026-02-06",
+          "value": 0.54
+        },
+        {
+          "date": "2026-02-09",
+          "value": 0.53
+        },
+        {
+          "date": "2026-02-10",
+          "value": 0.47
+        },
+        {
+          "date": "2026-02-11",
+          "value": 0.48
+        },
+        {
+          "date": "2026-02-12",
+          "value": 0.39
+        },
+        {
+          "date": "2026-02-13",
+          "value": 0.36
+        },
+        {
+          "date": "2026-02-16",
+          "value": 0.36
+        },
+        {
+          "date": "2026-02-17",
+          "value": 0.36
+        },
+        {
+          "date": "2026-02-18",
+          "value": 0.39
+        },
+        {
+          "date": "2026-02-19",
+          "value": 0.39
+        },
+        {
+          "date": "2026-02-20",
+          "value": 0.39
+        },
+        {
+          "date": "2026-02-23",
+          "value": 0.34
+        },
+        {
+          "date": "2026-02-24",
+          "value": 0.35
+        },
+        {
+          "date": "2026-02-25",
+          "value": 0.36
+        },
+        {
+          "date": "2026-02-26",
+          "value": 0.34
         }
       ]
     }
@@ -2626,17 +2626,13 @@
       "name": "Credit Card Delinquency",
       "description": "Percentage of credit card balances that are 90+ days past due. Rising delinquencies signal household financial stress and potential consumer spending slowdown.",
       "unit": "%",
-      "current_value": 2.98,
-      "current_date": "2025-07-01",
+      "current_value": 2.94,
+      "current_date": "2025-10-01",
       "status": "yellow",
       "trend": "deteriorating",
-      "change_value": -0.06,
-      "change_percent": -1.97,
+      "change_value": -0.04,
+      "change_percent": -1.34,
       "sparkline": [
-        {
-          "date": "2003-04-01",
-          "value": 4.53
-        },
         {
           "date": "2003-07-01",
           "value": 4.24
@@ -2992,6 +2988,10 @@
         {
           "date": "2025-07-01",
           "value": 2.98
+        },
+        {
+          "date": "2025-10-01",
+          "value": 2.94
         }
       ]
     },
@@ -4094,17 +4094,13 @@
       "name": "Personal Savings Rate",
       "description": "Personal saving as a percentage of disposable personal income. Low rates indicate households have limited financial cushion; high rates may indicate economic uncertainty.",
       "unit": "%",
-      "current_value": 3.5,
-      "current_date": "2025-11-01",
+      "current_value": 3.6,
+      "current_date": "2025-12-01",
       "status": "yellow",
       "trend": "deteriorating",
-      "change_value": -0.2,
-      "change_percent": -5.41,
+      "change_value": -0.1,
+      "change_percent": -2.7,
       "sparkline": [
-        {
-          "date": "2018-06-01",
-          "value": 6.3
-        },
         {
           "date": "2018-07-01",
           "value": 6.5
@@ -4459,7 +4455,11 @@
         },
         {
           "date": "2025-11-01",
-          "value": 3.5
+          "value": 3.7
+        },
+        {
+          "date": "2025-12-01",
+          "value": 3.6
         }
       ]
     },
