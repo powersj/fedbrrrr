@@ -13,12 +13,12 @@
     "red_min": 12,
     "invert": false
   },
-  "current_value": 11.26,
-  "current_date": "2025-07-01",
+  "current_value": 11.32,
+  "current_date": "2025-10-01",
   "status": "yellow",
   "trend": "improving",
-  "change_value": 0.13,
-  "change_percent": 1.19,
+  "change_value": 0.07,
+  "change_percent": 0.58,
   "data": [
     {
       "date": "2005-01-01",
@@ -599,6 +599,13 @@
       "value": 11.26,
       "raw_values": {
         "TDSP": 11.26
+      }
+    },
+    {
+      "date": "2025-10-01",
+      "value": 11.32,
+      "raw_values": {
+        "TDSP": 11.32
       }
     }
   ]
