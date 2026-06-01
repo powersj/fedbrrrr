@@ -13,12 +13,12 @@
     "red_min": 150,
     "invert": false
   },
-  "current_value": 205.18,
+  "current_value": 205.42,
   "current_date": "2026-01-01",
   "status": "red",
   "trend": "deteriorating",
-  "change_value": -11.89,
-  "change_percent": -5.48,
+  "change_value": -11.65,
+  "change_percent": -5.37,
   "data": [
     {
       "date": "1947-01-01",
@@ -2550,9 +2550,9 @@
     },
     {
       "date": "2026-01-01",
-      "value": 205.18,
+      "value": 205.42,
       "raw_values": {
-        "GDP": 31856.26,
+        "GDP": 31819.46,
         "W5000": 65362.52
       }
     }
