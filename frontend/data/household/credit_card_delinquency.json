@@ -13,12 +13,12 @@
     "red_min": 4.0,
     "invert": false
   },
-  "current_value": 2.92,
-  "current_date": "2026-01-01",
+  "current_value": 2.85,
+  "current_date": "2026-04-01",
   "status": "yellow",
   "trend": "deteriorating",
-  "change_value": -0.02,
-  "change_percent": -0.68,
+  "change_value": -0.06,
+  "change_percent": -2.06,
   "data": [
     {
       "date": "1991-01-01",
@@ -1002,9 +1002,16 @@
     },
     {
       "date": "2026-01-01",
-      "value": 2.92,
+      "value": 2.91,
       "raw_values": {
-        "DRCCLACBS": 2.92
+        "DRCCLACBS": 2.91
+      }
+    },
+    {
+      "date": "2026-04-01",
+      "value": 2.85,
+      "raw_values": {
+        "DRCCLACBS": 2.85
       }
     }
   ]
