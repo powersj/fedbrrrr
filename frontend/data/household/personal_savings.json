@@ -13,12 +13,12 @@
     "red_min": null,
     "invert": true
   },
-  "current_value": 3.0,
-  "current_date": "2026-07-01",
+  "current_value": 4.1,
+  "current_date": "2026-08-01",
   "status": "yellow",
   "trend": "deteriorating",
-  "change_value": 0.4,
-  "change_percent": 15.38,
+  "change_value": -0.5,
+  "change_percent": -10.87,
   "data": [
     {
       "date": "1959-01-01",
@@ -5692,9 +5692,16 @@
     },
     {
       "date": "2026-07-01",
-      "value": 3.0,
+      "value": 4.6,
       "raw_values": {
-        "PSAVERT": 3.0
+        "PSAVERT": 4.6
+      }
+    },
+    {
+      "date": "2026-08-01",
+      "value": 4.1,
+      "raw_values": {
+        "PSAVERT": 4.1
       }
     }
   ]

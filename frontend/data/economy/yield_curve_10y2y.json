@@ -13,12 +13,12 @@
     "red_min": null,
     "invert": true
   },
-  "current_value": 0.39,
-  "current_date": "2026-08-28",
+  "current_value": 0.37,
+  "current_date": "2026-09-29",
   "status": "yellow",
-  "trend": "stable",
-  "change_value": -0.08,
-  "change_percent": -17.02,
+  "trend": "deteriorating",
+  "change_value": 0.05,
+  "change_percent": 15.62,
   "data": [
     {
       "date": "1976-06-01",
@@ -104890,6 +104890,182 @@
       "raw_values": {
         "DGS10": 4.73,
         "DGS2": 4.34
+      }
+    },
+    {
+      "date": "2026-08-31",
+      "value": 0.41,
+      "raw_values": {
+        "DGS10": 4.75,
+        "DGS2": 4.34
+      }
+    },
+    {
+      "date": "2026-09-01",
+      "value": 0.4,
+      "raw_values": {
+        "DGS10": 4.79,
+        "DGS2": 4.39
+      }
+    },
+    {
+      "date": "2026-09-02",
+      "value": 0.4,
+      "raw_values": {
+        "DGS10": 4.79,
+        "DGS2": 4.39
+      }
+    },
+    {
+      "date": "2026-09-03",
+      "value": 0.43,
+      "raw_values": {
+        "DGS10": 4.77,
+        "DGS2": 4.34
+      }
+    },
+    {
+      "date": "2026-09-04",
+      "value": 0.41,
+      "raw_values": {
+        "DGS10": 4.78,
+        "DGS2": 4.37
+      }
+    },
+    {
+      "date": "2026-09-07",
+      "value": 0.41,
+      "raw_values": {
+        "DGS10": 4.78,
+        "DGS2": 4.37
+      }
+    },
+    {
+      "date": "2026-09-08",
+      "value": 0.41,
+      "raw_values": {
+        "DGS10": 4.8,
+        "DGS2": 4.39
+      }
+    },
+    {
+      "date": "2026-09-09",
+      "value": 0.4,
+      "raw_values": {
+        "DGS10": 4.83,
+        "DGS2": 4.43
+      }
+    },
+    {
+      "date": "2026-09-10",
+      "value": 0.39,
+      "raw_values": {
+        "DGS10": 4.95,
+        "DGS2": 4.56
+      }
+    },
+    {
+      "date": "2026-09-11",
+      "value": 0.33,
+      "raw_values": {
+        "DGS10": 4.96,
+        "DGS2": 4.63
+      }
+    },
+    {
+      "date": "2026-09-14",
+      "value": 0.32,
+      "raw_values": {
+        "DGS10": 4.97,
+        "DGS2": 4.65
+      }
+    },
+    {
+      "date": "2026-09-15",
+      "value": 0.33,
+      "raw_values": {
+        "DGS10": 5.0,
+        "DGS2": 4.67
+      }
+    },
+    {
+      "date": "2026-09-16",
+      "value": 0.27,
+      "raw_values": {
+        "DGS10": 5.01,
+        "DGS2": 4.74
+      }
+    },
+    {
+      "date": "2026-09-17",
+      "value": 0.27,
+      "raw_values": {
+        "DGS10": 4.94,
+        "DGS2": 4.67
+      }
+    },
+    {
+      "date": "2026-09-18",
+      "value": 0.25,
+      "raw_values": {
+        "DGS10": 5.01,
+        "DGS2": 4.76
+      }
+    },
+    {
+      "date": "2026-09-21",
+      "value": 0.2,
+      "raw_values": {
+        "DGS10": 4.96,
+        "DGS2": 4.76
+      }
+    },
+    {
+      "date": "2026-09-22",
+      "value": 0.25,
+      "raw_values": {
+        "DGS10": 4.96,
+        "DGS2": 4.71
+      }
+    },
+    {
+      "date": "2026-09-23",
+      "value": 0.26,
+      "raw_values": {
+        "DGS10": 5.11,
+        "DGS2": 4.85
+      }
+    },
+    {
+      "date": "2026-09-24",
+      "value": 0.31,
+      "raw_values": {
+        "DGS10": 5.18,
+        "DGS2": 4.87
+      }
+    },
+    {
+      "date": "2026-09-25",
+      "value": 0.36,
+      "raw_values": {
+        "DGS10": 5.17,
+        "DGS2": 4.81
+      }
+    },
+    {
+      "date": "2026-09-28",
+      "value": 0.32,
+      "raw_values": {
+        "DGS10": 5.24,
+        "DGS2": 4.92
+      }
+    },
+    {
+      "date": "2026-09-29",
+      "value": 0.37,
+      "raw_values": {
+        "DGS10": 5.26,
+        "DGS2": 4.89
       }
     }
   ]
